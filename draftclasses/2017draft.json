@@ -1,0 +1,2399 @@
+{
+    "startingSeason": 2018,
+    "players": [
+        {
+            "tid": -2,
+            "pid": 5,
+            "name": "John Collins",
+            "pos": "F",
+            "hgt": 81,
+            "weight": 226,
+            "srID": "collijo01",
+            "born": {
+                "year": 1997,
+                "loc": "Utah"
+            },
+            "ratings": [
+                {
+                    "season": 2019,
+                    "hgt": 63,
+                    "stre": 37,
+                    "spd": 61,
+                    "jmp": 63,
+                    "endu": 58,
+                    "ins": 63,
+                    "dnk": 63,
+                    "ft": 63,
+                    "fg": 63,
+                    "tp": 48,
+                    "diq": 43,
+                    "oiq": 56,
+                    "drb": 61,
+                    "pss": 48,
+                    "reb": 69
+                }
+            ],
+            "injury": {
+                "type": "Healthy",
+                "gamesRemaining": 0
+            },
+            "college": "Wake Forest",
+            "draft": {
+                "year": 2017,
+                "round": 1,
+                "pick": 19
+            },
+            "contract": {
+                "amount": 1000,
+                "exp": 2020
+            }
+        },
+        {
+            "tid": -2,
+            "pid": 8,
+            "name": "Tyler Dorsey",
+            "pos": "SG",
+            "hgt": 76,
+            "weight": 180,
+            "srID": "dorsety01",
+            "born": {
+                "year": 1996,
+                "loc": "California"
+            },
+            "ratings": [
+                {
+                    "season": 2019,
+                    "hgt": 65,
+                    "stre": 27,
+                    "spd": 69,
+                    "jmp": 60,
+                    "endu": 27,
+                    "ins": 30,
+                    "dnk": 27,
+                    "ft": 43,
+                    "fg": 33,
+                    "tp": 42,
+                    "diq": 25,
+                    "oiq": 38,
+                    "drb": 51,
+                    "pss": 27,
+                    "reb": 27
+                }
+            ],
+            "injury": {
+                "type": "Healthy",
+                "gamesRemaining": 0
+            },
+            "college": "Oregon",
+            "draft": {
+                "year": 2017,
+                "round": 2,
+                "pick": 41
+            },
+            "contract": {
+                "amount": 1000,
+                "exp": 2020
+            }
+        },
+        {
+            "tid": -2,
+            "pid": 31,
+            "name": "Semi Ojeleye",
+            "pos": "SF",
+            "hgt": 78,
+            "weight": 240,
+            "srID": "ojelese01",
+            "born": {
+                "year": 1994,
+                "loc": "Kansas"
+            },
+            "ratings": [
+                {
+                    "season": 2019,
+                    "hgt": 46,
+                    "stre": 61,
+                    "spd": 36,
+                    "jmp": 56,
+                    "endu": 27,
+                    "ins": 38,
+                    "dnk": 27,
+                    "ft": 40,
+                    "fg": 31,
+                    "tp": 27,
+                    "diq": 25,
+                    "oiq": 29,
+                    "drb": 35,
+                    "pss": 27,
+                    "reb": 27
+                }
+            ],
+            "injury": {
+                "type": "Healthy",
+                "gamesRemaining": 0
+            },
+            "college": "Duke",
+            "draft": {
+                "year": 2017,
+                "round": 2,
+                "pick": 37
+            },
+            "contract": {
+                "amount": 1000,
+                "exp": 2020
+            }
+        },
+        {
+            "tid": -2,
+            "pid": 34,
+            "name": "Jayson Tatum",
+            "pos": "SF",
+            "hgt": 80,
+            "weight": 210,
+            "srID": "tatumja01",
+            "born": {
+                "year": 1998,
+                "loc": "Missouri"
+            },
+            "ratings": [
+                {
+                    "season": 2019,
+                    "hgt": 57,
+                    "stre": 27,
+                    "spd": 63,
+                    "jmp": 72,
+                    "endu": 68,
+                    "ins": 51,
+                    "dnk": 66,
+                    "ft": 72,
+                    "fg": 66,
+                    "tp": 67,
+                    "diq": 55,
+                    "oiq": 58,
+                    "drb": 71,
+                    "pss": 47,
+                    "reb": 59
+                }
+            ],
+            "injury": {
+                "type": "Healthy",
+                "gamesRemaining": 0
+            },
+            "college": "Duke",
+            "draft": {
+                "year": 2017,
+                "round": 1,
+                "pick": 3
+            },
+            "contract": {
+                "amount": 1000,
+                "exp": 2020
+            }
+        },
+        {
+            "tid": -2,
+            "pid": 39,
+            "name": "Jarrett Allen",
+            "pos": "C",
+            "hgt": 81,
+            "weight": 243,
+            "srID": "allenja01",
+            "born": {
+                "year": 1998,
+                "loc": "California"
+            },
+            "ratings": [
+                {
+                    "season": 2019,
+                    "hgt": 42,
+                    "stre": 20,
+                    "spd": 53,
+                    "jmp": 100,
+                    "endu": 26,
+                    "ins": 100,
+                    "dnk": 100,
+                    "ft": 100,
+                    "fg": 71,
+                    "tp": 0,
+                    "diq": 44,
+                    "oiq": 77,
+                    "drb": 20,
+                    "pss": 0,
+                    "reb": 100
+                }
+            ],
+            "injury": {
+                "type": "Healthy",
+                "gamesRemaining": 0
+            },
+            "college": "Texas",
+            "draft": {
+                "year": 2017,
+                "round": 1,
+                "pick": 22
+            },
+            "contract": {
+                "amount": 1000,
+                "exp": 2020
+            }
+        },
+        {
+            "tid": -2,
+            "pid": 71,
+            "name": "Lauri Markkanen",
+            "pos": "FC",
+            "hgt": 85,
+            "weight": 240,
+            "srID": "markkla01",
+            "born": {
+                "year": 1997,
+                "loc": "Finland"
+            },
+            "ratings": [
+                {
+                    "season": 2019,
+                    "hgt": 81,
+                    "stre": 50,
+                    "spd": 50,
+                    "jmp": 50,
+                    "endu": 50,
+                    "ins": 50,
+                    "dnk": 50,
+                    "ft": 50,
+                    "fg": 50,
+                    "tp": 50,
+                    "diq": 50,
+                    "oiq": 50,
+                    "drb": 50,
+                    "pss": 50,
+                    "reb": 50
+                }
+            ],
+            "injury": {
+                "type": "Healthy",
+                "gamesRemaining": 0
+            },
+            "college": "Arizona",
+            "draft": {
+                "year": 2017,
+                "round": 1,
+                "pick": 7
+            },
+            "contract": {
+                "amount": 1000,
+                "exp": 2020
+            }
+        },
+        {
+            "tid": -2,
+            "pid": 80,
+            "name": "Dwayne Bacon",
+            "pos": "GF",
+            "hgt": 78,
+            "weight": 221,
+            "srID": "bacondw01",
+            "born": {
+                "year": 1995,
+                "loc": "Florida"
+            },
+            "ratings": [
+                {
+                    "season": 2019,
+                    "hgt": 73,
+                    "stre": 38,
+                    "spd": 47,
+                    "jmp": 57,
+                    "endu": 27,
+                    "ins": 38,
+                    "dnk": 34,
+                    "ft": 63,
+                    "fg": 43,
+                    "tp": 64,
+                    "diq": 25,
+                    "oiq": 50,
+                    "drb": 62,
+                    "pss": 27,
+                    "reb": 27
+                }
+            ],
+            "injury": {
+                "type": "Healthy",
+                "gamesRemaining": 0
+            },
+            "college": "Florida State",
+            "draft": {
+                "year": 2017,
+                "round": 2,
+                "pick": 40
+            },
+            "contract": {
+                "amount": 1000,
+                "exp": 2020
+            }
+        },
+        {
+            "tid": -2,
+            "pid": 92,
+            "name": "Malik Monk",
+            "pos": "SG",
+            "hgt": 75,
+            "weight": 200,
+            "srID": "monkma01",
+            "born": {
+                "year": 1998,
+                "loc": "Arkansas"
+            },
+            "ratings": [
+                {
+                    "season": 2019,
+                    "hgt": 60,
+                    "stre": 31,
+                    "spd": 53,
+                    "jmp": 53,
+                    "endu": 27,
+                    "ins": 33,
+                    "dnk": 27,
+                    "ft": 69,
+                    "fg": 52,
+                    "tp": 53,
+                    "diq": 25,
+                    "oiq": 45,
+                    "drb": 67,
+                    "pss": 42,
+                    "reb": 27
+                }
+            ],
+            "injury": {
+                "type": "Healthy",
+                "gamesRemaining": 0
+            },
+            "college": "Kentucky",
+            "draft": {
+                "year": 2017,
+                "round": 1,
+                "pick": 11
+            },
+            "contract": {
+                "amount": 1000,
+                "exp": 2020
+            }
+        },
+        {
+            "tid": -2,
+            "pid": 98,
+            "name": "Jaron Blossomgame",
+            "pos": "SF",
+            "hgt": 80,
+            "weight": 220,
+            "srID": "blossja01",
+            "born": {
+                "year": 1993,
+                "loc": "Georgia"
+            },
+            "ratings": [
+                {
+                    "season": 2019,
+                    "hgt": 57,
+                    "stre": 31,
+                    "spd": 52,
+                    "jmp": 62,
+                    "endu": 27,
+                    "ins": 45,
+                    "dnk": 41,
+                    "ft": 62,
+                    "fg": 37,
+                    "tp": 27,
+                    "diq": 25,
+                    "oiq": 37,
+                    "drb": 41,
+                    "pss": 27,
+                    "reb": 43
+                }
+            ],
+            "injury": {
+                "type": "Healthy",
+                "gamesRemaining": 0
+            },
+            "college": "Clemson",
+            "draft": {
+                "year": 2017,
+                "round": 2,
+                "pick": 59
+            },
+            "contract": {
+                "amount": 1000,
+                "exp": 2020
+            }
+        },
+        {
+            "tid": -2,
+            "pid": 133,
+            "name": "Justin Jackson",
+            "pos": "SF",
+            "hgt": 80,
+            "weight": 220,
+            "srID": "jacksju01",
+            "born": {
+                "year": 1995,
+                "loc": "Texas"
+            },
+            "ratings": [
+                {
+                    "season": 2019,
+                    "hgt": 57,
+                    "stre": 30,
+                    "spd": 57,
+                    "jmp": 68,
+                    "endu": 31,
+                    "ins": 55,
+                    "dnk": 44,
+                    "ft": 63,
+                    "fg": 49,
+                    "tp": 60,
+                    "diq": 25,
+                    "oiq": 56,
+                    "drb": 61,
+                    "pss": 27,
+                    "reb": 27
+                }
+            ],
+            "injury": {
+                "type": "Healthy",
+                "gamesRemaining": 0
+            },
+            "college": "UNC",
+            "draft": {
+                "year": 2017,
+                "round": 1,
+                "pick": 15
+            },
+            "contract": {
+                "amount": 1000,
+                "exp": 2020
+            }
+        },
+        {
+            "tid": -2,
+            "pid": 142,
+            "name": "Dennis Smith Jr.",
+            "pos": "PG",
+            "hgt": 74,
+            "weight": 205,
+            "srID": "smithde03",
+            "born": {
+                "year": 1997,
+                "loc": "North Carolina"
+            },
+            "ratings": [
+                {
+                    "season": 2019,
+                    "hgt": 54,
+                    "stre": 43,
+                    "spd": 48,
+                    "jmp": 53,
+                    "endu": 59,
+                    "ins": 41,
+                    "dnk": 44,
+                    "ft": 58,
+                    "fg": 62,
+                    "tp": 33,
+                    "diq": 30,
+                    "oiq": 55,
+                    "drb": 71,
+                    "pss": 86,
+                    "reb": 27
+                }
+            ],
+            "injury": {
+                "type": "Healthy",
+                "gamesRemaining": 0
+            },
+            "college": "NC State",
+            "draft": {
+                "year": 2017,
+                "round": 1,
+                "pick": 9
+            },
+            "contract": {
+                "amount": 1000,
+                "exp": 2020
+            }
+        },
+        {
+            "tid": -2,
+            "pid": 152,
+            "name": "Tyler Lydon",
+            "pos": "F",
+            "hgt": 82,
+            "weight": 225,
+            "srID": "lydonty01",
+            "born": {
+                "year": 1996,
+                "loc": "New York"
+            },
+            "ratings": [
+                {
+                    "season": 2019,
+                    "hgt": 68,
+                    "stre": 38,
+                    "spd": 46,
+                    "jmp": 69,
+                    "endu": 27,
+                    "ins": 47,
+                    "dnk": 27,
+                    "ft": 27,
+                    "fg": 33,
+                    "tp": 43,
+                    "diq": 25,
+                    "oiq": 30,
+                    "drb": 35,
+                    "pss": 27,
+                    "reb": 27
+                }
+            ],
+            "injury": {
+                "type": "Healthy",
+                "gamesRemaining": 0
+            },
+            "college": "Syracuse",
+            "draft": {
+                "year": 2017,
+                "round": 1,
+                "pick": 24
+            },
+            "contract": {
+                "amount": 1000,
+                "exp": 2020
+            }
+        },
+        {
+            "tid": -2,
+            "pid": 155,
+            "name": "Monte Morris",
+            "pos": "PG",
+            "hgt": 74,
+            "weight": 183,
+            "srID": "morrimo01",
+            "born": {
+                "year": 1995,
+                "loc": "Michigan"
+            },
+            "ratings": [
+                {
+                    "season": 2019,
+                    "hgt": 54,
+                    "stre": 27,
+                    "spd": 67,
+                    "jmp": 56,
+                    "endu": 40,
+                    "ins": 47,
+                    "dnk": 36,
+                    "ft": 71,
+                    "fg": 60,
+                    "tp": 70,
+                    "diq": 28,
+                    "oiq": 60,
+                    "drb": 72,
+                    "pss": 79,
+                    "reb": 27
+                }
+            ],
+            "injury": {
+                "type": "Healthy",
+                "gamesRemaining": 0
+            },
+            "college": "Iowa State",
+            "draft": {
+                "year": 2017,
+                "round": 2,
+                "pick": 51
+            },
+            "contract": {
+                "amount": 1000,
+                "exp": 2020
+            }
+        },
+        {
+            "tid": -2,
+            "pid": 172,
+            "name": "Luke Kennard",
+            "pos": "SG",
+            "hgt": 77,
+            "weight": 206,
+            "srID": "kennalu01",
+            "born": {
+                "year": 1996,
+                "loc": "Ohio"
+            },
+            "ratings": [
+                {
+                    "season": 2019,
+                    "hgt": 69,
+                    "stre": 27,
+                    "spd": 55,
+                    "jmp": 58,
+                    "endu": 35,
+                    "ins": 37,
+                    "dnk": 27,
+                    "ft": 69,
+                    "fg": 54,
+                    "tp": 69,
+                    "diq": 25,
+                    "oiq": 56,
+                    "drb": 69,
+                    "pss": 44,
+                    "reb": 27
+                }
+            ],
+            "injury": {
+                "type": "Healthy",
+                "gamesRemaining": 0
+            },
+            "college": "Duke",
+            "draft": {
+                "year": 2017,
+                "round": 1,
+                "pick": 12
+            },
+            "contract": {
+                "amount": 1000,
+                "exp": 2020
+            }
+        },
+        {
+            "tid": -2,
+            "pid": 182,
+            "name": "Jordan Bell",
+            "pos": "C",
+            "hgt": 80,
+            "weight": 216,
+            "srID": "belljo01",
+            "born": {
+                "year": 1995,
+                "loc": "California"
+            },
+            "ratings": [
+                {
+                    "season": 2019,
+                    "hgt": 37,
+                    "stre": 27,
+                    "spd": 56,
+                    "jmp": 64,
+                    "endu": 27,
+                    "ins": 38,
+                    "dnk": 35,
+                    "ft": 38,
+                    "fg": 27,
+                    "tp": 17,
+                    "diq": 25,
+                    "oiq": 33,
+                    "drb": 23,
+                    "pss": 27,
+                    "reb": 27
+                }
+            ],
+            "injury": {
+                "type": "Healthy",
+                "gamesRemaining": 0
+            },
+            "college": "Oregon",
+            "draft": {
+                "year": 2017,
+                "round": 2,
+                "pick": 38
+            },
+            "contract": {
+                "amount": 1000,
+                "exp": 2020
+            }
+        },
+        {
+            "tid": -2,
+            "pid": 209,
+            "name": "Isaiah Hartenstein",
+            "pos": "FC",
+            "hgt": 84,
+            "weight": 250,
+            "srID": "harteis01",
+            "born": {
+                "year": 1998,
+                "loc": "Oregon"
+            },
+            "ratings": [
+                {
+                    "season": 2019,
+                    "hgt": 77,
+                    "stre": 41,
+                    "spd": 34,
+                    "jmp": 67,
+                    "endu": 27,
+                    "ins": 34,
+                    "dnk": 27,
+                    "ft": 46,
+                    "fg": 27,
+                    "tp": 27,
+                    "diq": 25,
+                    "oiq": 25,
+                    "drb": 30,
+                    "pss": 27,
+                    "reb": 27
+                }
+            ],
+            "injury": {
+                "type": "Healthy",
+                "gamesRemaining": 0
+            },
+            "draft": {
+                "year": 2017,
+                "round": 2,
+                "pick": 43
+            },
+            "contract": {
+                "amount": 1000,
+                "exp": 2020
+            }
+        },
+        {
+            "tid": -2,
+            "pid": 219,
+            "name": "Ike Anigbogu",
+            "pos": "C",
+            "hgt": 81,
+            "weight": 252,
+            "srID": "anigbik01",
+            "born": {
+                "year": 1998,
+                "loc": "California"
+            },
+            "ratings": [
+                {
+                    "season": 2019,
+                    "hgt": 42,
+                    "stre": 48,
+                    "spd": 46,
+                    "jmp": 52,
+                    "endu": 27,
+                    "ins": 38,
+                    "dnk": 38,
+                    "ft": 46,
+                    "fg": 27,
+                    "tp": 17,
+                    "diq": 25,
+                    "oiq": 24,
+                    "drb": 29,
+                    "pss": 27,
+                    "reb": 27
+                }
+            ],
+            "injury": {
+                "type": "Healthy",
+                "gamesRemaining": 0
+            },
+            "college": "UCLA",
+            "draft": {
+                "year": 2017,
+                "round": 2,
+                "pick": 47
+            },
+            "contract": {
+                "amount": 1000,
+                "exp": 2020
+            }
+        },
+        {
+            "tid": -2,
+            "pid": 226,
+            "name": "T.J. Leaf",
+            "pos": "F",
+            "hgt": 82,
+            "weight": 222,
+            "srID": "leaftj01",
+            "born": {
+                "year": 1997,
+                "loc": "Israel"
+            },
+            "ratings": [
+                {
+                    "season": 2019,
+                    "hgt": 68,
+                    "stre": 37,
+                    "spd": 47,
+                    "jmp": 71,
+                    "endu": 27,
+                    "ins": 45,
+                    "dnk": 27,
+                    "ft": 40,
+                    "fg": 32,
+                    "tp": 27,
+                    "diq": 25,
+                    "oiq": 35,
+                    "drb": 36,
+                    "pss": 27,
+                    "reb": 27
+                }
+            ],
+            "injury": {
+                "type": "Healthy",
+                "gamesRemaining": 0
+            },
+            "college": "UCLA",
+            "draft": {
+                "year": 2017,
+                "round": 1,
+                "pick": 18
+            },
+            "contract": {
+                "amount": 1000,
+                "exp": 2020
+            }
+        },
+        {
+            "tid": -2,
+            "pid": 230,
+            "name": "Davon Reed",
+            "pos": "SG",
+            "hgt": 77,
+            "weight": 206,
+            "srID": "reedda01",
+            "born": {
+                "year": 1995,
+                "loc": "New Jersey"
+            },
+            "ratings": [
+                {
+                    "season": 2019,
+                    "hgt": 69,
+                    "stre": 32,
+                    "spd": 50,
+                    "jmp": 52,
+                    "endu": 27,
+                    "ins": 27,
+                    "dnk": 27,
+                    "ft": 46,
+                    "fg": 27,
+                    "tp": 52,
+                    "diq": 25,
+                    "oiq": 26,
+                    "drb": 35,
+                    "pss": 27,
+                    "reb": 27
+                }
+            ],
+            "injury": {
+                "type": "Healthy",
+                "gamesRemaining": 0
+            },
+            "college": "Miami (FL)",
+            "draft": {
+                "year": 2017,
+                "round": 2,
+                "pick": 32
+            },
+            "contract": {
+                "amount": 1000,
+                "exp": 2020
+            }
+        },
+        {
+            "tid": -2,
+            "pid": 232,
+            "name": "Edmond Sumner",
+            "pos": "PG",
+            "hgt": 76,
+            "weight": 190,
+            "srID": "sumneed01",
+            "born": {
+                "year": 1995,
+                "loc": "Michigan"
+            },
+            "ratings": [
+                {
+                    "season": 2019,
+                    "hgt": 65,
+                    "stre": 27,
+                    "spd": 65,
+                    "jmp": 58,
+                    "endu": 27,
+                    "ins": 27,
+                    "dnk": 27,
+                    "ft": 42,
+                    "fg": 27,
+                    "tp": 27,
+                    "diq": 25,
+                    "oiq": 26,
+                    "drb": 37,
+                    "pss": 27,
+                    "reb": 27
+                }
+            ],
+            "injury": {
+                "type": "Healthy",
+                "gamesRemaining": 0
+            },
+            "college": "Xavier",
+            "draft": {
+                "year": 2017,
+                "round": 2,
+                "pick": 52
+            },
+            "contract": {
+                "amount": 1000,
+                "exp": 2020
+            }
+        },
+        {
+            "tid": -2,
+            "pid": 253,
+            "name": "Sindarius Thornwell",
+            "pos": "SG",
+            "hgt": 76,
+            "weight": 215,
+            "srID": "thornsi01",
+            "born": {
+                "year": 1994,
+                "loc": "South Carolina"
+            },
+            "ratings": [
+                {
+                    "season": 2019,
+                    "hgt": 65,
+                    "stre": 48,
+                    "spd": 44,
+                    "jmp": 52,
+                    "endu": 27,
+                    "ins": 27,
+                    "dnk": 27,
+                    "ft": 48,
+                    "fg": 27,
+                    "tp": 27,
+                    "diq": 25,
+                    "oiq": 25,
+                    "drb": 35,
+                    "pss": 27,
+                    "reb": 27
+                }
+            ],
+            "injury": {
+                "type": "Healthy",
+                "gamesRemaining": 0
+            },
+            "college": "South Carolina",
+            "draft": {
+                "year": 2017,
+                "round": 2,
+                "pick": 48
+            },
+            "contract": {
+                "amount": 1000,
+                "exp": 2020
+            }
+        },
+        {
+            "tid": -2,
+            "pid": 257,
+            "name": "Lonzo Ball",
+            "pos": "PG",
+            "hgt": 77,
+            "weight": 190,
+            "srID": "balllo01",
+            "born": {
+                "year": 1997,
+                "loc": "California"
+            },
+            "ratings": [
+                {
+                    "season": 2019,
+                    "hgt": 69,
+                    "stre": 27,
+                    "spd": 67,
+                    "jmp": 60,
+                    "endu": 61,
+                    "ins": 36,
+                    "dnk": 27,
+                    "ft": 35,
+                    "fg": 59,
+                    "tp": 55,
+                    "diq": 37,
+                    "oiq": 50,
+                    "drb": 59,
+                    "pss": 82,
+                    "reb": 54
+                }
+            ],
+            "injury": {
+                "type": "Healthy",
+                "gamesRemaining": 0
+            },
+            "college": "UCLA",
+            "draft": {
+                "year": 2017,
+                "round": 1,
+                "pick": 2
+            },
+            "contract": {
+                "amount": 1000,
+                "exp": 2020
+            }
+        },
+        {
+            "tid": -2,
+            "pid": 263,
+            "name": "Josh Hart",
+            "pos": "SG",
+            "hgt": 77,
+            "weight": 215,
+            "srID": "hartjo01",
+            "born": {
+                "year": 1995,
+                "loc": "Maryland"
+            },
+            "ratings": [
+                {
+                    "season": 2019,
+                    "hgt": 69,
+                    "stre": 41,
+                    "spd": 51,
+                    "jmp": 58,
+                    "endu": 42,
+                    "ins": 43,
+                    "dnk": 28,
+                    "ft": 63,
+                    "fg": 52,
+                    "tp": 56,
+                    "diq": 38,
+                    "oiq": 49,
+                    "drb": 66,
+                    "pss": 27,
+                    "reb": 37
+                }
+            ],
+            "injury": {
+                "type": "Healthy",
+                "gamesRemaining": 0
+            },
+            "college": "Villanova",
+            "draft": {
+                "year": 2017,
+                "round": 1,
+                "pick": 30
+            },
+            "contract": {
+                "amount": 1000,
+                "exp": 2020
+            }
+        },
+        {
+            "tid": -2,
+            "pid": 268,
+            "name": "Kyle Kuzma",
+            "pos": "SF",
+            "hgt": 80,
+            "weight": 221,
+            "srID": "kuzmaky01",
+            "born": {
+                "year": 1995,
+                "loc": "Michigan"
+            },
+            "ratings": [
+                {
+                    "season": 2019,
+                    "hgt": 57,
+                    "stre": 32,
+                    "spd": 62,
+                    "jmp": 66,
+                    "endu": 66,
+                    "ins": 60,
+                    "dnk": 66,
+                    "ft": 66,
+                    "fg": 66,
+                    "tp": 50,
+                    "diq": 39,
+                    "oiq": 58,
+                    "drb": 66,
+                    "pss": 55,
+                    "reb": 54
+                }
+            ],
+            "injury": {
+                "type": "Healthy",
+                "gamesRemaining": 0
+            },
+            "college": "Utah",
+            "draft": {
+                "year": 2017,
+                "round": 1,
+                "pick": 27
+            },
+            "contract": {
+                "amount": 1000,
+                "exp": 2020
+            }
+        },
+        {
+            "tid": -2,
+            "pid": 277,
+            "name": "Dillon Brooks",
+            "pos": "SF",
+            "hgt": 79,
+            "weight": 225,
+            "srID": "brookdi01",
+            "born": {
+                "year": 1996,
+                "loc": "Ontario"
+            },
+            "ratings": [
+                {
+                    "season": 2019,
+                    "hgt": 51,
+                    "stre": 37,
+                    "spd": 54,
+                    "jmp": 66,
+                    "endu": 31,
+                    "ins": 29,
+                    "dnk": 38,
+                    "ft": 69,
+                    "fg": 47,
+                    "tp": 56,
+                    "diq": 25,
+                    "oiq": 44,
+                    "drb": 57,
+                    "pss": 27,
+                    "reb": 27
+                }
+            ],
+            "injury": {
+                "type": "Healthy",
+                "gamesRemaining": 0
+            },
+            "college": "Oregon",
+            "draft": {
+                "year": 2017,
+                "round": 2,
+                "pick": 45
+            },
+            "contract": {
+                "amount": 1000,
+                "exp": 2020
+            }
+        },
+        {
+            "tid": -2,
+            "pid": 289,
+            "name": "Ivan Rabb",
+            "pos": "F",
+            "hgt": 82,
+            "weight": 220,
+            "srID": "rabbiv01",
+            "born": {
+                "year": 1997,
+                "loc": "California"
+            },
+            "ratings": [
+                {
+                    "season": 2019,
+                    "hgt": 68,
+                    "stre": 36,
+                    "spd": 47,
+                    "jmp": 71,
+                    "endu": 27,
+                    "ins": 42,
+                    "dnk": 27,
+                    "ft": 50,
+                    "fg": 33,
+                    "tp": 27,
+                    "diq": 25,
+                    "oiq": 39,
+                    "drb": 36,
+                    "pss": 27,
+                    "reb": 47
+                }
+            ],
+            "injury": {
+                "type": "Healthy",
+                "gamesRemaining": 0
+            },
+            "college": "California",
+            "draft": {
+                "year": 2017,
+                "round": 2,
+                "pick": 35
+            },
+            "contract": {
+                "amount": 1000,
+                "exp": 2020
+            }
+        },
+        {
+            "tid": -2,
+            "pid": 295,
+            "name": "Bam Adebayo",
+            "pos": "C",
+            "hgt": 81,
+            "weight": 255,
+            "srID": "adebaba01",
+            "born": {
+                "year": 1997,
+                "loc": "New Jersey"
+            },
+            "ratings": [
+                {
+                    "season": 2019,
+                    "hgt": 42,
+                    "stre": 53,
+                    "spd": 26,
+                    "jmp": 100,
+                    "endu": 8,
+                    "ins": 100,
+                    "dnk": 95,
+                    "ft": 100,
+                    "fg": 44,
+                    "tp": 0,
+                    "diq": 65,
+                    "oiq": 77,
+                    "drb": 8,
+                    "pss": 53,
+                    "reb": 100
+                }
+            ],
+            "injury": {
+                "type": "Healthy",
+                "gamesRemaining": 0
+            },
+            "college": "Kentucky",
+            "draft": {
+                "year": 2017,
+                "round": 1,
+                "pick": 14
+            },
+            "contract": {
+                "amount": 1000,
+                "exp": 2020
+            }
+        },
+        {
+            "tid": -2,
+            "pid": 315,
+            "name": "Sterling Brown",
+            "pos": "SG",
+            "hgt": 77,
+            "weight": 219,
+            "srID": "brownst02",
+            "born": {
+                "year": 1995,
+                "loc": "Illinois"
+            },
+            "ratings": [
+                {
+                    "season": 2019,
+                    "hgt": 69,
+                    "stre": 40,
+                    "spd": 43,
+                    "jmp": 52,
+                    "endu": 27,
+                    "ins": 46,
+                    "dnk": 31,
+                    "ft": 56,
+                    "fg": 42,
+                    "tp": 48,
+                    "diq": 25,
+                    "oiq": 50,
+                    "drb": 59,
+                    "pss": 31,
+                    "reb": 29
+                }
+            ],
+            "injury": {
+                "type": "Healthy",
+                "gamesRemaining": 0
+            },
+            "college": "SMU",
+            "draft": {
+                "year": 2017,
+                "round": 2,
+                "pick": 46
+            },
+            "contract": {
+                "amount": 1000,
+                "exp": 2020
+            }
+        },
+        {
+            "tid": -2,
+            "pid": 331,
+            "name": "D.J. Wilson",
+            "pos": "F",
+            "hgt": 82,
+            "weight": 231,
+            "srID": "wilsodj01",
+            "born": {
+                "year": 1996,
+                "loc": "California"
+            },
+            "ratings": [
+                {
+                    "season": 2019,
+                    "hgt": 68,
+                    "stre": 35,
+                    "spd": 43,
+                    "jmp": 67,
+                    "endu": 27,
+                    "ins": 34,
+                    "dnk": 27,
+                    "ft": 46,
+                    "fg": 37,
+                    "tp": 50,
+                    "diq": 25,
+                    "oiq": 43,
+                    "drb": 45,
+                    "pss": 27,
+                    "reb": 57
+                }
+            ],
+            "injury": {
+                "type": "Healthy",
+                "gamesRemaining": 0
+            },
+            "college": "Michigan",
+            "draft": {
+                "year": 2017,
+                "round": 1,
+                "pick": 17
+            },
+            "contract": {
+                "amount": 1000,
+                "exp": 2020
+            }
+        },
+        {
+            "tid": -2,
+            "pid": 357,
+            "name": "Frank Jackson",
+            "pos": "PG",
+            "hgt": 75,
+            "weight": 205,
+            "srID": "jacksfr01",
+            "born": {
+                "year": 1998,
+                "loc": "District of Columbia"
+            },
+            "ratings": [
+                {
+                    "season": 2019,
+                    "hgt": 60,
+                    "stre": 39,
+                    "spd": 50,
+                    "jmp": 53,
+                    "endu": 31,
+                    "ins": 43,
+                    "dnk": 30,
+                    "ft": 67,
+                    "fg": 55,
+                    "tp": 41,
+                    "diq": 25,
+                    "oiq": 43,
+                    "drb": 65,
+                    "pss": 27,
+                    "reb": 27
+                }
+            ],
+            "injury": {
+                "type": "Healthy",
+                "gamesRemaining": 0
+            },
+            "college": "Duke",
+            "draft": {
+                "year": 2017,
+                "round": 2,
+                "pick": 31
+            },
+            "contract": {
+                "amount": 1000,
+                "exp": 2020
+            }
+        },
+        {
+            "tid": -2,
+            "pid": 365,
+            "name": "Kadeem Allen",
+            "pos": "PG",
+            "hgt": 73,
+            "weight": 200,
+            "srID": "allenka01",
+            "born": {
+                "year": 1993,
+                "loc": "North Carolina"
+            },
+            "ratings": [
+                {
+                    "season": 2019,
+                    "hgt": 49,
+                    "stre": 51,
+                    "spd": 50,
+                    "jmp": 51,
+                    "endu": 37,
+                    "ins": 39,
+                    "dnk": 42,
+                    "ft": 72,
+                    "fg": 53,
+                    "tp": 71,
+                    "diq": 27,
+                    "oiq": 60,
+                    "drb": 71,
+                    "pss": 85,
+                    "reb": 27
+                }
+            ],
+            "injury": {
+                "type": "Healthy",
+                "gamesRemaining": 0
+            },
+            "college": "Arizona",
+            "draft": {
+                "year": 2017,
+                "round": 2,
+                "pick": 53
+            },
+            "contract": {
+                "amount": 1000,
+                "exp": 2020
+            }
+        },
+        {
+            "tid": -2,
+            "pid": 367,
+            "name": "Damyean Dotson",
+            "pos": "SG",
+            "hgt": 77,
+            "weight": 210,
+            "srID": "dotsoda01",
+            "born": {
+                "year": 1994,
+                "loc": "Texas"
+            },
+            "ratings": [
+                {
+                    "season": 2019,
+                    "hgt": 69,
+                    "stre": 34,
+                    "spd": 52,
+                    "jmp": 56,
+                    "endu": 48,
+                    "ins": 31,
+                    "dnk": 31,
+                    "ft": 64,
+                    "fg": 56,
+                    "tp": 66,
+                    "diq": 25,
+                    "oiq": 50,
+                    "drb": 68,
+                    "pss": 39,
+                    "reb": 30
+                }
+            ],
+            "injury": {
+                "type": "Healthy",
+                "gamesRemaining": 0
+            },
+            "college": "Oregon",
+            "draft": {
+                "year": 2017,
+                "round": 2,
+                "pick": 44
+            },
+            "contract": {
+                "amount": 1000,
+                "exp": 2020
+            }
+        },
+        {
+            "tid": -2,
+            "pid": 376,
+            "name": "Frank Ntilikina",
+            "pos": "PG",
+            "hgt": 76,
+            "weight": 200,
+            "srID": "ntilila01",
+            "born": {
+                "year": 1998,
+                "loc": "Belgium"
+            },
+            "ratings": [
+                {
+                    "season": 2019,
+                    "hgt": 65,
+                    "stre": 28,
+                    "spd": 58,
+                    "jmp": 57,
+                    "endu": 34,
+                    "ins": 27,
+                    "dnk": 27,
+                    "ft": 66,
+                    "fg": 44,
+                    "tp": 34,
+                    "diq": 25,
+                    "oiq": 42,
+                    "drb": 62,
+                    "pss": 67,
+                    "reb": 27
+                }
+            ],
+            "injury": {
+                "type": "Healthy",
+                "gamesRemaining": 0
+            },
+            "draft": {
+                "year": 2017,
+                "round": 1,
+                "pick": 8
+            },
+            "contract": {
+                "amount": 1000,
+                "exp": 2020
+            }
+        },
+        {
+            "tid": -2,
+            "pid": 386,
+            "name": "Jawun Evans",
+            "pos": "PG",
+            "hgt": 72,
+            "weight": 190,
+            "srID": "evansja01",
+            "born": {
+                "year": 1996,
+                "loc": "South Carolina"
+            },
+            "ratings": [
+                {
+                    "season": 2019,
+                    "hgt": 45,
+                    "stre": 41,
+                    "spd": 50,
+                    "jmp": 47,
+                    "endu": 27,
+                    "ins": 27,
+                    "dnk": 27,
+                    "ft": 46,
+                    "fg": 27,
+                    "tp": 27,
+                    "diq": 25,
+                    "oiq": 26,
+                    "drb": 52,
+                    "pss": 27,
+                    "reb": 27
+                }
+            ],
+            "injury": {
+                "type": "Healthy",
+                "gamesRemaining": 0
+            },
+            "college": "Oklahoma State",
+            "draft": {
+                "year": 2017,
+                "round": 2,
+                "pick": 39
+            },
+            "contract": {
+                "amount": 1000,
+                "exp": 2020
+            }
+        },
+        {
+            "tid": -2,
+            "pid": 388,
+            "name": "Terrance Ferguson",
+            "pos": "GF",
+            "hgt": 78,
+            "weight": 190,
+            "srID": "fergute01",
+            "born": {
+                "year": 1998,
+                "loc": "Oklahoma"
+            },
+            "ratings": [
+                {
+                    "season": 2019,
+                    "hgt": 73,
+                    "stre": 27,
+                    "spd": 70,
+                    "jmp": 65,
+                    "endu": 43,
+                    "ins": 52,
+                    "dnk": 35,
+                    "ft": 63,
+                    "fg": 49,
+                    "tp": 65,
+                    "diq": 25,
+                    "oiq": 45,
+                    "drb": 60,
+                    "pss": 27,
+                    "reb": 27
+                }
+            ],
+            "injury": {
+                "type": "Healthy",
+                "gamesRemaining": 0
+            },
+            "draft": {
+                "year": 2017,
+                "round": 1,
+                "pick": 21
+            },
+            "contract": {
+                "amount": 1000,
+                "exp": 2020
+            }
+        },
+        {
+            "tid": -2,
+            "pid": 407,
+            "name": "Jonathan Isaac",
+            "pos": "F",
+            "hgt": 82,
+            "weight": 230,
+            "srID": "isaacjo01",
+            "born": {
+                "year": 1997,
+                "loc": "New York"
+            },
+            "ratings": [
+                {
+                    "season": 2019,
+                    "hgt": 68,
+                    "stre": 36,
+                    "spd": 47,
+                    "jmp": 70,
+                    "endu": 44,
+                    "ins": 46,
+                    "dnk": 27,
+                    "ft": 70,
+                    "fg": 55,
+                    "tp": 46,
+                    "diq": 50,
+                    "oiq": 48,
+                    "drb": 50,
+                    "pss": 27,
+                    "reb": 67
+                }
+            ],
+            "injury": {
+                "type": "Healthy",
+                "gamesRemaining": 0
+            },
+            "college": "Florida State",
+            "draft": {
+                "year": 2017,
+                "round": 1,
+                "pick": 6
+            },
+            "contract": {
+                "amount": 1000,
+                "exp": 2020
+            }
+        },
+        {
+            "tid": -2,
+            "pid": 408,
+            "name": "Wes Iwundu",
+            "pos": "SF",
+            "hgt": 78,
+            "weight": 195,
+            "srID": "iwundwe01",
+            "born": {
+                "year": 1994,
+                "loc": "Texas"
+            },
+            "ratings": [
+                {
+                    "season": 2019,
+                    "hgt": 46,
+                    "stre": 27,
+                    "spd": 69,
+                    "jmp": 63,
+                    "endu": 28,
+                    "ins": 29,
+                    "dnk": 36,
+                    "ft": 72,
+                    "fg": 35,
+                    "tp": 48,
+                    "diq": 25,
+                    "oiq": 47,
+                    "drb": 54,
+                    "pss": 27,
+                    "reb": 27
+                }
+            ],
+            "injury": {
+                "type": "Healthy",
+                "gamesRemaining": 0
+            },
+            "college": "Kansas State",
+            "draft": {
+                "year": 2017,
+                "round": 2,
+                "pick": 33
+            },
+            "contract": {
+                "amount": 1000,
+                "exp": 2020
+            }
+        },
+        {
+            "tid": -2,
+            "pid": 414,
+            "name": "Jonah Bolden",
+            "pos": "SF",
+            "hgt": 80,
+            "weight": 225,
+            "srID": "boldejo01",
+            "born": {
+                "year": 1996,
+                "loc": "Australia"
+            },
+            "ratings": [
+                {
+                    "season": 2019,
+                    "hgt": 57,
+                    "stre": 30,
+                    "spd": 53,
+                    "jmp": 64,
+                    "endu": 27,
+                    "ins": 49,
+                    "dnk": 27,
+                    "ft": 30,
+                    "fg": 34,
+                    "tp": 35,
+                    "diq": 25,
+                    "oiq": 35,
+                    "drb": 33,
+                    "pss": 27,
+                    "reb": 37
+                }
+            ],
+            "injury": {
+                "type": "Healthy",
+                "gamesRemaining": 0
+            },
+            "college": "UCLA",
+            "draft": {
+                "year": 2017,
+                "round": 2,
+                "pick": 36
+            },
+            "contract": {
+                "amount": 1000,
+                "exp": 2020
+            }
+        },
+        {
+            "tid": -2,
+            "pid": 417,
+            "name": "Markelle Fultz",
+            "pos": "SG",
+            "hgt": 76,
+            "weight": 209,
+            "srID": "fultzma01",
+            "born": {
+                "year": 1998,
+                "loc": "Maryland"
+            },
+            "ratings": [
+                {
+                    "season": 2019,
+                    "hgt": 65,
+                    "stre": 33,
+                    "spd": 49,
+                    "jmp": 54,
+                    "endu": 34,
+                    "ins": 27,
+                    "dnk": 27,
+                    "ft": 52,
+                    "fg": 50,
+                    "tp": 27,
+                    "diq": 25,
+                    "oiq": 44,
+                    "drb": 67,
+                    "pss": 68,
+                    "reb": 36
+                }
+            ],
+            "injury": {
+                "type": "Healthy",
+                "gamesRemaining": 0
+            },
+            "college": "Washington",
+            "draft": {
+                "year": 2017,
+                "round": 1,
+                "pick": 1
+            },
+            "contract": {
+                "amount": 1000,
+                "exp": 2020
+            }
+        },
+        {
+            "tid": -2,
+            "pid": 424,
+            "name": "Justin Patton",
+            "pos": "C",
+            "hgt": 83,
+            "weight": 241,
+            "srID": "pattoju01",
+            "born": {
+                "year": 1997,
+                "loc": "Nebraska"
+            },
+            "ratings": [
+                {
+                    "season": 2019,
+                    "hgt": 51,
+                    "stre": 33,
+                    "spd": 44,
+                    "jmp": 48,
+                    "endu": 27,
+                    "ins": 27,
+                    "dnk": 27,
+                    "ft": 29,
+                    "fg": 27,
+                    "tp": 17,
+                    "diq": 25,
+                    "oiq": 24,
+                    "drb": 21,
+                    "pss": 27,
+                    "reb": 27
+                }
+            ],
+            "injury": {
+                "type": "Healthy",
+                "gamesRemaining": 0
+            },
+            "college": "Creighton",
+            "draft": {
+                "year": 2017,
+                "round": 1,
+                "pick": 16
+            },
+            "contract": {
+                "amount": 1000,
+                "exp": 2020
+            }
+        },
+        {
+            "tid": -2,
+            "pid": 438,
+            "name": "Josh Jackson",
+            "pos": "SF",
+            "hgt": 80,
+            "weight": 207,
+            "srID": "jacksjo02",
+            "born": {
+                "year": 1997,
+                "loc": "California"
+            },
+            "ratings": [
+                {
+                    "season": 2019,
+                    "hgt": 57,
+                    "stre": 27,
+                    "spd": 57,
+                    "jmp": 68,
+                    "endu": 41,
+                    "ins": 36,
+                    "dnk": 54,
+                    "ft": 64,
+                    "fg": 52,
+                    "tp": 40,
+                    "diq": 32,
+                    "oiq": 44,
+                    "drb": 58,
+                    "pss": 47,
+                    "reb": 49
+                }
+            ],
+            "injury": {
+                "type": "Healthy",
+                "gamesRemaining": 0
+            },
+            "college": "Kansas",
+            "draft": {
+                "year": 2017,
+                "round": 1,
+                "pick": 4
+            },
+            "contract": {
+                "amount": 1000,
+                "exp": 2020
+            }
+        },
+        {
+            "tid": -2,
+            "pid": 447,
+            "name": "Zach Collins",
+            "pos": "F",
+            "hgt": 81,
+            "weight": 250,
+            "srID": "colliza01",
+            "born": {
+                "year": 1997,
+                "loc": "Nevada"
+            },
+            "ratings": [
+                {
+                    "season": 2019,
+                    "hgt": 63,
+                    "stre": 46,
+                    "spd": 42,
+                    "jmp": 67,
+                    "endu": 27,
+                    "ins": 49,
+                    "dnk": 42,
+                    "ft": 68,
+                    "fg": 44,
+                    "tp": 37,
+                    "diq": 25,
+                    "oiq": 51,
+                    "drb": 51,
+                    "pss": 27,
+                    "reb": 55
+                }
+            ],
+            "injury": {
+                "type": "Healthy",
+                "gamesRemaining": 0
+            },
+            "college": "Gonzaga",
+            "draft": {
+                "year": 2017,
+                "round": 1,
+                "pick": 10
+            },
+            "contract": {
+                "amount": 1000,
+                "exp": 2020
+            }
+        },
+        {
+            "tid": -2,
+            "pid": 457,
+            "name": "Caleb Swanigan",
+            "pos": "F",
+            "hgt": 81,
+            "weight": 260,
+            "srID": "swanica01",
+            "born": {
+                "year": 1997,
+                "loc": "Indiana"
+            },
+            "ratings": [
+                {
+                    "season": 2019,
+                    "hgt": 63,
+                    "stre": 49,
+                    "spd": 32,
+                    "jmp": 49,
+                    "endu": 27,
+                    "ins": 38,
+                    "dnk": 33,
+                    "ft": 27,
+                    "fg": 28,
+                    "tp": 27,
+                    "diq": 25,
+                    "oiq": 26,
+                    "drb": 32,
+                    "pss": 27,
+                    "reb": 31
+                }
+            ],
+            "injury": {
+                "type": "Healthy",
+                "gamesRemaining": 0
+            },
+            "college": "Purdue",
+            "draft": {
+                "year": 2017,
+                "round": 1,
+                "pick": 26
+            },
+            "contract": {
+                "amount": 1000,
+                "exp": 2020
+            }
+        },
+        {
+            "tid": -2,
+            "pid": 465,
+            "name": "De'Aaron Fox",
+            "pos": "PG",
+            "hgt": 75,
+            "weight": 185,
+            "srID": "foxde01",
+            "born": {
+                "year": 1997,
+                "loc": "Louisiana"
+            },
+            "ratings": [
+                {
+                    "season": 2019,
+                    "hgt": 60,
+                    "stre": 29,
+                    "spd": 67,
+                    "jmp": 60,
+                    "endu": 66,
+                    "ins": 58,
+                    "dnk": 66,
+                    "ft": 67,
+                    "fg": 64,
+                    "tp": 57,
+                    "diq": 48,
+                    "oiq": 58,
+                    "drb": 67,
+                    "pss": 85,
+                    "reb": 38
+                }
+            ],
+            "injury": {
+                "type": "Healthy",
+                "gamesRemaining": 0
+            },
+            "college": "Kentucky",
+            "draft": {
+                "year": 2017,
+                "round": 1,
+                "pick": 5
+            },
+            "contract": {
+                "amount": 1000,
+                "exp": 2020
+            }
+        },
+        {
+            "tid": -2,
+            "pid": 466,
+            "name": "Harry Giles",
+            "pos": "F",
+            "hgt": 82,
+            "weight": 240,
+            "srID": "gilesha01",
+            "born": {
+                "year": 1998,
+                "loc": "North Carolina"
+            },
+            "ratings": [
+                {
+                    "season": 2019,
+                    "hgt": 68,
+                    "stre": 39,
+                    "spd": 50,
+                    "jmp": 72,
+                    "endu": 27,
+                    "ins": 36,
+                    "dnk": 27,
+                    "ft": 46,
+                    "fg": 36,
+                    "tp": 27,
+                    "diq": 25,
+                    "oiq": 36,
+                    "drb": 39,
+                    "pss": 31,
+                    "reb": 40
+                }
+            ],
+            "injury": {
+                "type": "Healthy",
+                "gamesRemaining": 0
+            },
+            "college": "Duke",
+            "draft": {
+                "year": 2017,
+                "round": 1,
+                "pick": 20
+            },
+            "contract": {
+                "amount": 1000,
+                "exp": 2020
+            }
+        },
+        {
+            "tid": -2,
+            "pid": 469,
+            "name": "Frank Mason III",
+            "pos": "PG",
+            "hgt": 71,
+            "weight": 190,
+            "srID": "masonfr01",
+            "born": {
+                "year": 1994,
+                "loc": "Virginia"
+            },
+            "ratings": [
+                {
+                    "season": 2019,
+                    "hgt": 41,
+                    "stre": 49,
+                    "spd": 43,
+                    "jmp": 41,
+                    "endu": 27,
+                    "ins": 35,
+                    "dnk": 27,
+                    "ft": 46,
+                    "fg": 30,
+                    "tp": 27,
+                    "diq": 25,
+                    "oiq": 37,
+                    "drb": 47,
+                    "pss": 46,
+                    "reb": 27
+                }
+            ],
+            "injury": {
+                "type": "Healthy",
+                "gamesRemaining": 0
+            },
+            "college": "Kansas",
+            "draft": {
+                "year": 2017,
+                "round": 2,
+                "pick": 34
+            },
+            "contract": {
+                "amount": 1000,
+                "exp": 2020
+            }
+        },
+        {
+            "tid": -2,
+            "pid": 486,
+            "name": "Derrick White",
+            "pos": "SG",
+            "hgt": 76,
+            "weight": 190,
+            "srID": "whitede01",
+            "born": {
+                "year": 1994,
+                "loc": "Colorado"
+            },
+            "ratings": [
+                {
+                    "season": 2019,
+                    "hgt": 65,
+                    "stre": 27,
+                    "spd": 70,
+                    "jmp": 62,
+                    "endu": 44,
+                    "ins": 47,
+                    "dnk": 37,
+                    "ft": 72,
+                    "fg": 52,
+                    "tp": 42,
+                    "diq": 43,
+                    "oiq": 60,
+                    "drb": 68,
+                    "pss": 75,
+                    "reb": 38
+                }
+            ],
+            "injury": {
+                "type": "Healthy",
+                "gamesRemaining": 0
+            },
+            "college": "Colorado-Colorado Springs",
+            "draft": {
+                "year": 2017,
+                "round": 1,
+                "pick": 29
+            },
+            "contract": {
+                "amount": 1000,
+                "exp": 2020
+            }
+        },
+        {
+            "tid": -2,
+            "pid": 487,
+            "name": "OG Anunoby",
+            "pos": "SF",
+            "hgt": 79,
+            "weight": 240,
+            "srID": "anunoog01",
+            "born": {
+                "year": 1997,
+                "loc": "United Kingdom"
+            },
+            "ratings": [
+                {
+                    "season": 2019,
+                    "hgt": 51,
+                    "stre": 50,
+                    "spd": 41,
+                    "jmp": 61,
+                    "endu": 32,
+                    "ins": 55,
+                    "dnk": 42,
+                    "ft": 52,
+                    "fg": 50,
+                    "tp": 48,
+                    "diq": 25,
+                    "oiq": 44,
+                    "drb": 51,
+                    "pss": 27,
+                    "reb": 27
+                }
+            ],
+            "injury": {
+                "type": "Healthy",
+                "gamesRemaining": 0
+            },
+            "college": "Indiana",
+            "draft": {
+                "year": 2017,
+                "round": 1,
+                "pick": 23
+            },
+            "contract": {
+                "amount": 1000,
+                "exp": 2020
+            }
+        },
+        {
+            "tid": -2,
+            "pid": 502,
+            "name": "Tony Bradley",
+            "pos": "C",
+            "hgt": 82,
+            "weight": 248,
+            "srID": "bradlto01",
+            "born": {
+                "year": 1998,
+                "loc": "Florida"
+            },
+            "ratings": [
+                {
+                    "season": 2019,
+                    "hgt": 46,
+                    "stre": 39,
+                    "spd": 50,
+                    "jmp": 52,
+                    "endu": 27,
+                    "ins": 41,
+                    "dnk": 27,
+                    "ft": 33,
+                    "fg": 33,
+                    "tp": 17,
+                    "diq": 25,
+                    "oiq": 30,
+                    "drb": 29,
+                    "pss": 27,
+                    "reb": 52
+                }
+            ],
+            "injury": {
+                "type": "Healthy",
+                "gamesRemaining": 0
+            },
+            "college": "UNC",
+            "draft": {
+                "year": 2017,
+                "round": 1,
+                "pick": 28
+            },
+            "contract": {
+                "amount": 1000,
+                "exp": 2020
+            }
+        },
+        {
+            "tid": -2,
+            "pid": 509,
+            "name": "Donovan Mitchell",
+            "pos": "SG",
+            "hgt": 74,
+            "weight": 215,
+            "srID": "mitchdo01",
+            "born": {
+                "year": 1996,
+                "loc": "New York"
+            },
+            "ratings": [
+                {
+                    "season": 2019,
+                    "hgt": 54,
+                    "stre": 54,
+                    "spd": 46,
+                    "jmp": 53,
+                    "endu": 70,
+                    "ins": 55,
+                    "dnk": 60,
+                    "ft": 72,
+                    "fg": 68,
+                    "tp": 66,
+                    "diq": 54,
+                    "oiq": 63,
+                    "drb": 70,
+                    "pss": 73,
+                    "reb": 44
+                }
+            ],
+            "injury": {
+                "type": "Healthy",
+                "gamesRemaining": 0
+            },
+            "college": "Louisville",
+            "draft": {
+                "year": 2017,
+                "round": 1,
+                "pick": 13
+            },
+            "contract": {
+                "amount": 1000,
+                "exp": 2020
+            }
+        },
+        {
+            "tid": -2,
+            "pid": 519,
+            "name": "Thomas Bryant",
+            "pos": "C",
+            "hgt": 81,
+            "weight": 248,
+            "srID": "bryanth01",
+            "born": {
+                "year": 1997,
+                "loc": "New York"
+            },
+            "ratings": [
+                {
+                    "season": 2019,
+                    "hgt": 42,
+                    "stre": 52,
+                    "spd": 47,
+                    "jmp": 72,
+                    "endu": 34,
+                    "ins": 72,
+                    "dnk": 68,
+                    "ft": 72,
+                    "fg": 61,
+                    "tp": 28,
+                    "diq": 37,
+                    "oiq": 59,
+                    "drb": 45,
+                    "pss": 30,
+                    "reb": 80
+                }
+            ],
+            "injury": {
+                "type": "Healthy",
+                "gamesRemaining": 0
+            },
+            "college": "Indiana",
+            "draft": {
+                "year": 2017,
+                "round": 2,
+                "pick": 42
+            },
+            "contract": {
+                "amount": 1000,
+                "exp": 2020
+            }
+        }
+    ]
+}
