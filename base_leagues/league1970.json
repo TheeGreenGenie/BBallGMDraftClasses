@@ -22,16 +22,16 @@
           "spd": 67,
           "jmp": 56,
           "endu": 27,
-          "ins": 28,
-          "dnk": 28,
-          "ft": 56,
-          "fg": 32,
+          "ins": 27,
+          "dnk": 27,
+          "ft": 58,
+          "fg": 40,
           "tp": 25,
-          "diq": 27,
-          "oiq": 47,
-          "drb": 52,
-          "pss": 37,
-          "reb": 26
+          "diq": 26,
+          "oiq": 38,
+          "drb": 41,
+          "pss": 38,
+          "reb": 32
         }
       ],
       "injury": {
@@ -45,8 +45,8 @@
         "pick": 10
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 64,
+        "exp": 1970
       }
     },
     {
@@ -65,20 +65,20 @@
         {
           "season": 1970,
           "hgt": 63,
-          "stre": 46,
-          "spd": 53,
+          "stre": 47,
+          "spd": 54,
           "jmp": 70,
-          "endu": 45,
-          "ins": 64,
-          "dnk": 52,
-          "ft": 62,
-          "fg": 52,
+          "endu": 60,
+          "ins": 70,
+          "dnk": 64,
+          "ft": 65,
+          "fg": 60,
           "tp": 25,
-          "diq": 43,
+          "diq": 46,
           "oiq": 60,
-          "drb": 56,
-          "pss": 38,
-          "reb": 67
+          "drb": 54,
+          "pss": 46,
+          "reb": 71
         }
       ],
       "injury": {
@@ -92,8 +92,8 @@
         "pick": 1
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 58,
+        "exp": 1970
       }
     },
     {
@@ -115,17 +115,17 @@
           "stre": 53,
           "spd": 49,
           "jmp": 61,
-          "endu": 70,
-          "ins": 47,
-          "dnk": 58,
+          "endu": 67,
+          "ins": 49,
+          "dnk": 60,
           "ft": 70,
           "fg": 57,
           "tp": 25,
-          "diq": 49,
-          "oiq": 60,
-          "drb": 68,
-          "pss": 64,
-          "reb": 77
+          "diq": 50,
+          "oiq": 59,
+          "drb": 51,
+          "pss": 55,
+          "reb": 65
         }
       ],
       "injury": {
@@ -139,8 +139,8 @@
         "pick": 32
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 58,
+        "exp": 1970
       }
     },
     {
@@ -160,19 +160,19 @@
           "season": 1970,
           "hgt": 41,
           "stre": 26,
-          "spd": 75,
-          "jmp": 66,
-          "endu": 57,
-          "ins": 59,
-          "dnk": 70,
-          "ft": 69,
-          "fg": 69,
+          "spd": 76,
+          "jmp": 67,
+          "endu": 59,
+          "ins": 63,
+          "dnk": 74,
+          "ft": 67,
+          "fg": 64,
           "tp": 25,
-          "diq": 47,
-          "oiq": 71,
-          "drb": 71,
-          "pss": 60,
-          "reb": 41
+          "diq": 49,
+          "oiq": 57,
+          "drb": 54,
+          "pss": 52,
+          "reb": 48
         }
       ],
       "injury": {
@@ -186,8 +186,8 @@
         "pick": 2
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 60,
+        "exp": 1970
       }
     },
     {
@@ -207,19 +207,19 @@
           "season": 1970,
           "hgt": 56,
           "stre": 36,
-          "spd": 63,
+          "spd": 64,
           "jmp": 70,
-          "endu": 49,
-          "ins": 50,
-          "dnk": 61,
-          "ft": 67,
-          "fg": 55,
+          "endu": 53,
+          "ins": 52,
+          "dnk": 66,
+          "ft": 70,
+          "fg": 57,
           "tp": 25,
-          "diq": 40,
-          "oiq": 60,
-          "drb": 56,
-          "pss": 46,
-          "reb": 63
+          "diq": 42,
+          "oiq": 49,
+          "drb": 41,
+          "pss": 48,
+          "reb": 57
         }
       ],
       "injury": {
@@ -233,8 +233,8 @@
         "pick": 29
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 55,
+        "exp": 1970
       }
     },
     {
@@ -255,18 +255,18 @@
           "hgt": 48,
           "stre": 35,
           "spd": 51,
-          "jmp": 60,
-          "endu": 29,
-          "ins": 26,
+          "jmp": 61,
+          "endu": 30,
+          "ins": 27,
           "dnk": 35,
-          "ft": 60,
-          "fg": 40,
+          "ft": 66,
+          "fg": 48,
           "tp": 25,
           "diq": 27,
-          "oiq": 40,
-          "drb": 48,
-          "pss": 25,
-          "reb": 37
+          "oiq": 32,
+          "drb": 41,
+          "pss": 34,
+          "reb": 44
         }
       ],
       "injury": {
@@ -280,8 +280,8 @@
         "pick": 24
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 60,
+        "exp": 1970
       }
     },
     {
@@ -327,8 +327,8 @@
         "pick": 17
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 56,
+        "exp": 1970
       }
     },
     {
@@ -348,19 +348,19 @@
           "season": 1970,
           "hgt": 30,
           "stre": 31,
-          "spd": 67,
-          "jmp": 55,
-          "endu": 54,
-          "ins": 45,
-          "dnk": 57,
+          "spd": 68,
+          "jmp": 56,
+          "endu": 57,
+          "ins": 48,
+          "dnk": 61,
           "ft": 70,
-          "fg": 60,
+          "fg": 58,
           "tp": 25,
-          "diq": 40,
+          "diq": 41,
           "oiq": 60,
-          "drb": 70,
-          "pss": 89,
-          "reb": 29
+          "drb": 59,
+          "pss": 70,
+          "reb": 46
         }
       ],
       "injury": {
@@ -374,8 +374,8 @@
         "pick": 5
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 55,
+        "exp": 1970
       }
     },
     {
@@ -395,19 +395,19 @@
           "season": 1970,
           "hgt": 41,
           "stre": 43,
-          "spd": 67,
-          "jmp": 68,
-          "endu": 72,
-          "ins": 70,
-          "dnk": 79,
-          "ft": 81,
-          "fg": 78,
+          "spd": 68,
+          "jmp": 70,
+          "endu": 70,
+          "ins": 74,
+          "dnk": 82,
+          "ft": 80,
+          "fg": 69,
           "tp": 27,
           "diq": 46,
-          "oiq": 73,
-          "drb": 69,
-          "pss": 57,
-          "reb": 38
+          "oiq": 60,
+          "drb": 52,
+          "pss": 51,
+          "reb": 47
         }
       ],
       "injury": {
@@ -421,8 +421,8 @@
         "pick": 4
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 55,
+        "exp": 1970
       }
     },
     {
@@ -447,14 +447,14 @@
           "endu": 25,
           "ins": 26,
           "dnk": 25,
-          "ft": 45,
-          "fg": 25,
+          "ft": 49,
+          "fg": 32,
           "tp": 25,
           "diq": 25,
           "oiq": 32,
           "drb": 34,
-          "pss": 25,
-          "reb": 25
+          "pss": 26,
+          "reb": 29
         }
       ],
       "injury": {
@@ -468,8 +468,8 @@
         "pick": 31
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 62,
+        "exp": 1970
       }
     },
     {
@@ -494,14 +494,14 @@
           "endu": 25,
           "ins": 25,
           "dnk": 25,
-          "ft": 26,
-          "fg": 25,
+          "ft": 27,
+          "fg": 27,
           "tp": 25,
           "diq": 25,
           "oiq": 26,
           "drb": 37,
-          "pss": 25,
-          "reb": 25
+          "pss": 26,
+          "reb": 27
         }
       ],
       "injury": {
@@ -515,8 +515,8 @@
         "pick": 214
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 63,
+        "exp": 1970
       }
     },
     {
@@ -541,14 +541,14 @@
           "endu": 28,
           "ins": 25,
           "dnk": 26,
-          "ft": 50,
-          "fg": 31,
+          "ft": 53,
+          "fg": 39,
           "tp": 25,
           "diq": 25,
-          "oiq": 45,
-          "drb": 48,
-          "pss": 28,
-          "reb": 25
+          "oiq": 41,
+          "drb": 40,
+          "pss": 35,
+          "reb": 27
         }
       ],
       "injury": {
@@ -562,8 +562,8 @@
         "pick": 37
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 54,
+        "exp": 1970
       }
     },
     {
@@ -609,8 +609,8 @@
         "pick": 13
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 64,
+        "exp": 1970
       }
     },
     {
@@ -629,20 +629,20 @@
         {
           "season": 1970,
           "hgt": 52,
-          "stre": 28,
-          "spd": 58,
-          "jmp": 63,
-          "endu": 26,
-          "ins": 27,
-          "dnk": 32,
-          "ft": 46,
-          "fg": 26,
+          "stre": 29,
+          "spd": 59,
+          "jmp": 64,
+          "endu": 25,
+          "ins": 25,
+          "dnk": 30,
+          "ft": 48,
+          "fg": 34,
           "tp": 25,
           "diq": 25,
-          "oiq": 37,
-          "drb": 35,
-          "pss": 25,
-          "reb": 26
+          "oiq": 36,
+          "drb": 34,
+          "pss": 26,
+          "reb": 32
         }
       ],
       "injury": {
@@ -656,8 +656,8 @@
         "pick": 1
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 63,
+        "exp": 1970
       }
     },
     {
@@ -678,18 +678,18 @@
           "hgt": 26,
           "stre": 25,
           "spd": 59,
-          "jmp": 42,
-          "endu": 27,
+          "jmp": 41,
+          "endu": 28,
           "ins": 26,
-          "dnk": 26,
-          "ft": 61,
-          "fg": 36,
+          "dnk": 27,
+          "ft": 64,
+          "fg": 45,
           "tp": 25,
           "diq": 37,
-          "oiq": 56,
-          "drb": 67,
-          "pss": 63,
-          "reb": 25
+          "oiq": 47,
+          "drb": 52,
+          "pss": 52,
+          "reb": 40
         }
       ],
       "injury": {
@@ -703,8 +703,8 @@
         "pick": 55
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 65,
+        "exp": 1970
       }
     },
     {
@@ -726,17 +726,17 @@
           "stre": 35,
           "spd": 56,
           "jmp": 58,
-          "endu": 27,
+          "endu": 28,
           "ins": 26,
           "dnk": 27,
-          "ft": 50,
-          "fg": 28,
+          "ft": 54,
+          "fg": 36,
           "tp": 25,
           "diq": 28,
-          "oiq": 35,
-          "drb": 49,
-          "pss": 27,
-          "reb": 27
+          "oiq": 31,
+          "drb": 43,
+          "pss": 32,
+          "reb": 33
         }
       ],
       "injury": {
@@ -750,8 +750,8 @@
         "pick": 12
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 53,
+        "exp": 1970
       }
     },
     {
@@ -773,16 +773,16 @@
           "stre": 49,
           "spd": 45,
           "jmp": 69,
-          "endu": 35,
-          "ins": 46,
-          "dnk": 40,
-          "ft": 57,
-          "fg": 42,
+          "endu": 37,
+          "ins": 49,
+          "dnk": 43,
+          "ft": 62,
+          "fg": 52,
           "tp": 25,
-          "diq": 37,
-          "oiq": 53,
-          "drb": 48,
-          "pss": 25,
+          "diq": 39,
+          "oiq": 43,
+          "drb": 38,
+          "pss": 40,
           "reb": 51
         }
       ],
@@ -797,8 +797,8 @@
         "pick": 32
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 58,
+        "exp": 1970
       }
     },
     {
@@ -818,19 +818,19 @@
           "season": 1970,
           "hgt": 41,
           "stre": 39,
-          "spd": 71,
-          "jmp": 69,
-          "endu": 79,
-          "ins": 64,
-          "dnk": 79,
-          "ft": 85,
-          "fg": 75,
+          "spd": 72,
+          "jmp": 70,
+          "endu": 74,
+          "ins": 67,
+          "dnk": 82,
+          "ft": 82,
+          "fg": 66,
           "tp": 27,
-          "diq": 60,
-          "oiq": 77,
-          "drb": 73,
-          "pss": 80,
-          "reb": 57
+          "diq": 61,
+          "oiq": 67,
+          "drb": 57,
+          "pss": 69,
+          "reb": 53
         }
       ],
       "injury": {
@@ -844,8 +844,8 @@
         "pick": 9
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 57,
+        "exp": 1970
       }
     },
     {
@@ -864,20 +864,20 @@
         {
           "season": 1970,
           "hgt": 48,
-          "stre": 33,
-          "spd": 60,
-          "jmp": 60,
-          "endu": 38,
-          "ins": 39,
-          "dnk": 50,
+          "stre": 34,
+          "spd": 58,
+          "jmp": 58,
+          "endu": 33,
+          "ins": 34,
+          "dnk": 45,
           "ft": 69,
-          "fg": 58,
+          "fg": 54,
           "tp": 25,
           "diq": 45,
-          "oiq": 59,
-          "drb": 60,
-          "pss": 27,
-          "reb": 54
+          "oiq": 46,
+          "drb": 45,
+          "pss": 40,
+          "reb": 49
         }
       ],
       "injury": {
@@ -891,8 +891,8 @@
         "pick": 2
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 65,
+        "exp": 1970
       }
     },
     {
@@ -917,14 +917,14 @@
           "endu": 25,
           "ins": 30,
           "dnk": 31,
-          "ft": 36,
-          "fg": 25,
+          "ft": 39,
+          "fg": 33,
           "tp": 25,
           "diq": 25,
           "oiq": 31,
           "drb": 32,
           "pss": 25,
-          "reb": 25
+          "reb": 28
         }
       ],
       "injury": {
@@ -938,8 +938,8 @@
         "pick": 46
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 55,
+        "exp": 1970
       }
     },
     {
@@ -960,18 +960,18 @@
           "hgt": 52,
           "stre": 25,
           "spd": 56,
-          "jmp": 65,
+          "jmp": 64,
           "endu": 25,
           "ins": 25,
-          "dnk": 35,
-          "ft": 55,
-          "fg": 31,
+          "dnk": 33,
+          "ft": 57,
+          "fg": 39,
           "tp": 25,
-          "diq": 27,
-          "oiq": 37,
-          "drb": 40,
-          "pss": 25,
-          "reb": 37
+          "diq": 26,
+          "oiq": 33,
+          "drb": 38,
+          "pss": 30,
+          "reb": 38
         }
       ],
       "injury": {
@@ -985,8 +985,8 @@
         "pick": 52
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 53,
+        "exp": 1970
       }
     },
     {
@@ -1006,18 +1006,18 @@
           "season": 1970,
           "hgt": 44,
           "stre": 35,
-          "spd": 61,
-          "jmp": 62,
-          "endu": 42,
-          "ins": 56,
+          "spd": 62,
+          "jmp": 63,
+          "endu": 44,
+          "ins": 59,
           "dnk": 70,
           "ft": 70,
-          "fg": 57,
+          "fg": 58,
           "tp": 25,
-          "diq": 43,
-          "oiq": 60,
-          "drb": 61,
-          "pss": 29,
+          "diq": 44,
+          "oiq": 54,
+          "drb": 47,
+          "pss": 43,
           "reb": 52
         }
       ],
@@ -1032,8 +1032,8 @@
         "pick": 19
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 66,
+        "exp": 1970
       }
     },
     {
@@ -1079,8 +1079,8 @@
         "pick": 42
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 61,
+        "exp": 1970
       }
     },
     {
@@ -1103,16 +1103,16 @@
           "spd": 55,
           "jmp": 55,
           "endu": 38,
-          "ins": 33,
+          "ins": 32,
           "dnk": 42,
           "ft": 67,
-          "fg": 46,
+          "fg": 48,
           "tp": 25,
           "diq": 41,
-          "oiq": 57,
-          "drb": 57,
-          "pss": 25,
-          "reb": 43
+          "oiq": 47,
+          "drb": 46,
+          "pss": 34,
+          "reb": 44
         }
       ],
       "injury": {
@@ -1126,8 +1126,8 @@
         "pick": 8
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 65,
+        "exp": 1970
       }
     },
     {
@@ -1146,20 +1146,20 @@
         {
           "season": 1970,
           "hgt": 33,
-          "stre": 31,
+          "stre": 32,
           "spd": 62,
           "jmp": 52,
           "endu": 39,
           "ins": 32,
           "dnk": 38,
           "ft": 69,
-          "fg": 55,
+          "fg": 54,
           "tp": 25,
-          "diq": 43,
-          "oiq": 59,
-          "drb": 69,
-          "pss": 71,
-          "reb": 25
+          "diq": 44,
+          "oiq": 51,
+          "drb": 53,
+          "pss": 56,
+          "reb": 43
         }
       ],
       "injury": {
@@ -1173,8 +1173,8 @@
         "pick": 3
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 60,
+        "exp": 1970
       }
     },
     {
@@ -1193,20 +1193,20 @@
         {
           "season": 1970,
           "hgt": 33,
-          "stre": 26,
+          "stre": 27,
           "spd": 66,
           "jmp": 57,
-          "endu": 41,
+          "endu": 43,
           "ins": 34,
           "dnk": 39,
           "ft": 70,
-          "fg": 59,
+          "fg": 58,
           "tp": 25,
           "diq": 37,
-          "oiq": 59,
-          "drb": 68,
+          "oiq": 47,
+          "drb": 56,
           "pss": 55,
-          "reb": 26
+          "reb": 42
         }
       ],
       "injury": {
@@ -1220,8 +1220,8 @@
         "pick": 9
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 60,
+        "exp": 1970
       }
     },
     {
@@ -1267,8 +1267,8 @@
         "pick": 187
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 54,
+        "exp": 1970
       }
     },
     {
@@ -1287,20 +1287,20 @@
         {
           "season": 1970,
           "hgt": 67,
-          "stre": 54,
+          "stre": 53,
           "spd": 46,
           "jmp": 70,
-          "endu": 47,
-          "ins": 48,
-          "dnk": 44,
-          "ft": 59,
-          "fg": 48,
+          "endu": 49,
+          "ins": 50,
+          "dnk": 46,
+          "ft": 62,
+          "fg": 54,
           "tp": 25,
-          "diq": 48,
-          "oiq": 58,
-          "drb": 57,
-          "pss": 52,
-          "reb": 72
+          "diq": 50,
+          "oiq": 44,
+          "drb": 41,
+          "pss": 48,
+          "reb": 62
         }
       ],
       "injury": {
@@ -1314,8 +1314,8 @@
         "pick": 4
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 66,
+        "exp": 1970
       }
     },
     {
@@ -1335,19 +1335,19 @@
           "season": 1970,
           "hgt": 41,
           "stre": 25,
-          "spd": 61,
-          "jmp": 56,
+          "spd": 59,
+          "jmp": 55,
           "endu": 25,
           "ins": 25,
           "dnk": 25,
-          "ft": 40,
-          "fg": 25,
+          "ft": 41,
+          "fg": 31,
           "tp": 25,
           "diq": 25,
-          "oiq": 33,
-          "drb": 41,
-          "pss": 30,
-          "reb": 25
+          "oiq": 34,
+          "drb": 37,
+          "pss": 31,
+          "reb": 27
         }
       ],
       "injury": {
@@ -1361,8 +1361,8 @@
         "pick": 14
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 60,
+        "exp": 1970
       }
     },
     {
@@ -1382,19 +1382,19 @@
           "season": 1970,
           "hgt": 33,
           "stre": 36,
-          "spd": 64,
-          "jmp": 59,
-          "endu": 68,
-          "ins": 47,
-          "dnk": 64,
+          "spd": 65,
+          "jmp": 60,
+          "endu": 69,
+          "ins": 49,
+          "dnk": 69,
           "ft": 74,
-          "fg": 68,
+          "fg": 62,
           "tp": 25,
-          "diq": 51,
-          "oiq": 70,
-          "drb": 74,
-          "pss": 90,
-          "reb": 34
+          "diq": 54,
+          "oiq": 62,
+          "drb": 60,
+          "pss": 72,
+          "reb": 47
         }
       ],
       "injury": {
@@ -1408,8 +1408,8 @@
         "pick": 3
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 54,
+        "exp": 1970
       }
     },
     {
@@ -1434,14 +1434,14 @@
           "endu": 25,
           "ins": 25,
           "dnk": 27,
-          "ft": 44,
-          "fg": 25,
+          "ft": 46,
+          "fg": 31,
           "tp": 25,
           "diq": 25,
-          "oiq": 36,
-          "drb": 38,
-          "pss": 25,
-          "reb": 25
+          "oiq": 34,
+          "drb": 35,
+          "pss": 27,
+          "reb": 30
         }
       ],
       "injury": {
@@ -1455,8 +1455,8 @@
         "pick": 3
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 58,
+        "exp": 1970
       }
     },
     {
@@ -1476,19 +1476,19 @@
           "season": 1970,
           "hgt": 52,
           "stre": 38,
-          "spd": 68,
-          "jmp": 75,
+          "spd": 69,
+          "jmp": 77,
           "endu": 66,
-          "ins": 54,
-          "dnk": 75,
+          "ins": 58,
+          "dnk": 80,
           "ft": 80,
-          "fg": 68,
+          "fg": 62,
           "tp": 25,
-          "diq": 50,
-          "oiq": 66,
-          "drb": 61,
-          "pss": 25,
-          "reb": 59
+          "diq": 52,
+          "oiq": 51,
+          "drb": 48,
+          "pss": 42,
+          "reb": 55
         }
       ],
       "injury": {
@@ -1502,8 +1502,8 @@
         "pick": 36
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 56,
+        "exp": 1970
       }
     },
     {
@@ -1522,20 +1522,20 @@
         {
           "season": 1970,
           "hgt": 48,
-          "stre": 27,
-          "spd": 65,
-          "jmp": 66,
+          "stre": 26,
+          "spd": 64,
+          "jmp": 65,
           "endu": 25,
           "ins": 25,
           "dnk": 28,
-          "ft": 49,
-          "fg": 26,
+          "ft": 50,
+          "fg": 31,
           "tp": 25,
-          "diq": 25,
-          "oiq": 29,
-          "drb": 38,
-          "pss": 25,
-          "reb": 26
+          "diq": 26,
+          "oiq": 30,
+          "drb": 39,
+          "pss": 26,
+          "reb": 31
         }
       ],
       "injury": {
@@ -1549,8 +1549,8 @@
         "pick": 80
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 60,
+        "exp": 1970
       }
     },
     {
@@ -1569,20 +1569,20 @@
         {
           "season": 1970,
           "hgt": 41,
-          "stre": 31,
+          "stre": 30,
           "spd": 60,
           "jmp": 60,
           "endu": 25,
           "ins": 25,
           "dnk": 25,
-          "ft": 42,
-          "fg": 25,
+          "ft": 45,
+          "fg": 29,
           "tp": 25,
           "diq": 25,
-          "oiq": 31,
-          "drb": 42,
-          "pss": 25,
-          "reb": 25
+          "oiq": 28,
+          "drb": 39,
+          "pss": 27,
+          "reb": 27
         }
       ],
       "injury": {
@@ -1596,8 +1596,8 @@
         "pick": 157
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 64,
+        "exp": 1970
       }
     },
     {
@@ -1620,16 +1620,16 @@
           "spd": 68,
           "jmp": 61,
           "endu": 55,
-          "ins": 41,
-          "dnk": 62,
-          "ft": 65,
-          "fg": 59,
+          "ins": 40,
+          "dnk": 59,
+          "ft": 63,
+          "fg": 55,
           "tp": 25,
-          "diq": 44,
-          "oiq": 57,
-          "drb": 68,
-          "pss": 51,
-          "reb": 51
+          "diq": 45,
+          "oiq": 48,
+          "drb": 57,
+          "pss": 45,
+          "reb": 50
         }
       ],
       "injury": {
@@ -1643,8 +1643,8 @@
         "pick": 21
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 54,
+        "exp": 1970
       }
     },
     {
@@ -1663,20 +1663,20 @@
         {
           "season": 1970,
           "hgt": 52,
-          "stre": 30,
+          "stre": 29,
           "spd": 60,
-          "jmp": 69,
-          "endu": 27,
+          "jmp": 68,
+          "endu": 30,
           "ins": 32,
-          "dnk": 36,
-          "ft": 51,
-          "fg": 32,
+          "dnk": 40,
+          "ft": 56,
+          "fg": 41,
           "tp": 25,
-          "diq": 26,
-          "oiq": 42,
-          "drb": 39,
-          "pss": 25,
-          "reb": 27
+          "diq": 27,
+          "oiq": 43,
+          "drb": 43,
+          "pss": 26,
+          "reb": 35
         }
       ],
       "injury": {
@@ -1690,8 +1690,8 @@
         "pick": 6
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 58,
+        "exp": 1970
       }
     },
     {
@@ -1713,17 +1713,17 @@
           "stre": 35,
           "spd": 69,
           "jmp": 72,
-          "endu": 57,
-          "ins": 62,
-          "dnk": 77,
-          "ft": 83,
-          "fg": 68,
+          "endu": 58,
+          "ins": 64,
+          "dnk": 79,
+          "ft": 81,
+          "fg": 62,
           "tp": 25,
-          "diq": 50,
-          "oiq": 70,
-          "drb": 65,
-          "pss": 40,
-          "reb": 57
+          "diq": 51,
+          "oiq": 56,
+          "drb": 49,
+          "pss": 46,
+          "reb": 53
         }
       ],
       "injury": {
@@ -1737,8 +1737,8 @@
         "pick": 14
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 56,
+        "exp": 1970
       }
     },
     {
@@ -1759,18 +1759,18 @@
           "hgt": 33,
           "stre": 25,
           "spd": 68,
-          "jmp": 57,
-          "endu": 46,
-          "ins": 31,
-          "dnk": 41,
+          "jmp": 58,
+          "endu": 50,
+          "ins": 32,
+          "dnk": 44,
           "ft": 68,
-          "fg": 48,
+          "fg": 52,
           "tp": 25,
-          "diq": 41,
-          "oiq": 58,
-          "drb": 68,
-          "pss": 83,
-          "reb": 25
+          "diq": 42,
+          "oiq": 52,
+          "drb": 55,
+          "pss": 65,
+          "reb": 43
         }
       ],
       "injury": {
@@ -1784,8 +1784,8 @@
         "pick": 25
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 56,
+        "exp": 1970
       }
     },
     {
@@ -1807,17 +1807,17 @@
           "stre": 37,
           "spd": 51,
           "jmp": 69,
-          "endu": 30,
+          "endu": 32,
           "ins": 41,
-          "dnk": 36,
-          "ft": 57,
-          "fg": 45,
+          "dnk": 37,
+          "ft": 59,
+          "fg": 49,
           "tp": 25,
-          "diq": 31,
-          "oiq": 44,
-          "drb": 44,
-          "pss": 25,
-          "reb": 47
+          "diq": 32,
+          "oiq": 37,
+          "drb": 37,
+          "pss": 36,
+          "reb": 48
         }
       ],
       "injury": {
@@ -1831,8 +1831,8 @@
         "pick": 6
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 56,
+        "exp": 1970
       }
     },
     {
@@ -1854,17 +1854,17 @@
           "stre": 25,
           "spd": 80,
           "jmp": 63,
-          "endu": 59,
-          "ins": 61,
-          "dnk": 71,
-          "ft": 79,
-          "fg": 71,
+          "endu": 58,
+          "ins": 62,
+          "dnk": 72,
+          "ft": 76,
+          "fg": 63,
           "tp": 25,
           "diq": 46,
-          "oiq": 74,
-          "drb": 75,
-          "pss": 93,
-          "reb": 33
+          "oiq": 64,
+          "drb": 59,
+          "pss": 72,
+          "reb": 44
         }
       ],
       "injury": {
@@ -1878,8 +1878,8 @@
         "pick": 2
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 57,
+        "exp": 1970
       }
     },
     {
@@ -1901,17 +1901,17 @@
           "stre": 25,
           "spd": 70,
           "jmp": 70,
-          "endu": 39,
-          "ins": 52,
+          "endu": 38,
+          "ins": 51,
           "dnk": 57,
           "ft": 68,
-          "fg": 53,
+          "fg": 57,
           "tp": 25,
           "diq": 39,
-          "oiq": 60,
-          "drb": 60,
-          "pss": 27,
-          "reb": 41
+          "oiq": 51,
+          "drb": 47,
+          "pss": 41,
+          "reb": 48
         }
       ],
       "injury": {
@@ -1925,8 +1925,8 @@
         "pick": 10
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 63,
+        "exp": 1970
       }
     },
     {
@@ -1945,20 +1945,20 @@
         {
           "season": 1970,
           "hgt": 48,
-          "stre": 47,
-          "spd": 61,
+          "stre": 46,
+          "spd": 60,
           "jmp": 70,
-          "endu": 58,
-          "ins": 56,
+          "endu": 57,
+          "ins": 55,
           "dnk": 70,
           "ft": 70,
-          "fg": 64,
+          "fg": 59,
           "tp": 25,
-          "diq": 51,
-          "oiq": 60,
-          "drb": 61,
-          "pss": 26,
-          "reb": 72
+          "diq": 50,
+          "oiq": 54,
+          "drb": 51,
+          "pss": 38,
+          "reb": 63
         }
       ],
       "injury": {
@@ -1972,8 +1972,8 @@
         "pick": 35
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 55,
+        "exp": 1970
       }
     },
     {
@@ -1994,18 +1994,18 @@
           "hgt": 48,
           "stre": 27,
           "spd": 64,
-          "jmp": 66,
-          "endu": 32,
-          "ins": 27,
-          "dnk": 39,
-          "ft": 50,
-          "fg": 35,
+          "jmp": 65,
+          "endu": 33,
+          "ins": 28,
+          "dnk": 38,
+          "ft": 52,
+          "fg": 44,
           "tp": 25,
-          "diq": 31,
-          "oiq": 44,
-          "drb": 55,
-          "pss": 25,
-          "reb": 45
+          "diq": 32,
+          "oiq": 41,
+          "drb": 49,
+          "pss": 33,
+          "reb": 47
         }
       ],
       "injury": {
@@ -2019,8 +2019,8 @@
         "pick": 11
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 57,
+        "exp": 1970
       }
     },
     {
@@ -2039,20 +2039,20 @@
         {
           "season": 1970,
           "hgt": 26,
-          "stre": 31,
+          "stre": 32,
           "spd": 58,
           "jmp": 47,
           "endu": 45,
-          "ins": 26,
-          "dnk": 36,
+          "ins": 27,
+          "dnk": 37,
           "ft": 66,
           "fg": 49,
           "tp": 25,
-          "diq": 35,
-          "oiq": 55,
-          "drb": 66,
-          "pss": 69,
-          "reb": 25
+          "diq": 36,
+          "oiq": 43,
+          "drb": 50,
+          "pss": 52,
+          "reb": 40
         }
       ],
       "injury": {
@@ -2066,8 +2066,8 @@
         "pick": 15
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 54,
+        "exp": 1970
       }
     },
     {
@@ -2092,14 +2092,14 @@
           "endu": 25,
           "ins": 25,
           "dnk": 25,
-          "ft": 45,
-          "fg": 27,
+          "ft": 47,
+          "fg": 30,
           "tp": 25,
           "diq": 25,
-          "oiq": 39,
-          "drb": 42,
-          "pss": 25,
-          "reb": 25
+          "oiq": 37,
+          "drb": 41,
+          "pss": 27,
+          "reb": 27
         }
       ],
       "injury": {
@@ -2113,8 +2113,8 @@
         "pick": 106
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 54,
+        "exp": 1970
       }
     },
     {
@@ -2133,20 +2133,20 @@
         {
           "season": 1970,
           "hgt": 48,
-          "stre": 44,
+          "stre": 45,
           "spd": 49,
           "jmp": 62,
-          "endu": 30,
-          "ins": 33,
+          "endu": 31,
+          "ins": 34,
           "dnk": 41,
           "ft": 69,
-          "fg": 39,
+          "fg": 51,
           "tp": 25,
           "diq": 34,
-          "oiq": 57,
-          "drb": 54,
-          "pss": 25,
-          "reb": 35
+          "oiq": 44,
+          "drb": 45,
+          "pss": 38,
+          "reb": 45
         }
       ],
       "injury": {
@@ -2160,8 +2160,8 @@
         "pick": 25
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 60,
+        "exp": 1970
       }
     },
     {
@@ -2207,8 +2207,8 @@
         "pick": 4
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 57,
+        "exp": 1970
       }
     },
     {
@@ -2254,8 +2254,8 @@
         "pick": 61
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 55,
+        "exp": 1970
       }
     },
     {
@@ -2277,17 +2277,17 @@
           "stre": 36,
           "spd": 54,
           "jmp": 70,
-          "endu": 51,
-          "ins": 52,
-          "dnk": 44,
-          "ft": 60,
-          "fg": 51,
+          "endu": 54,
+          "ins": 54,
+          "dnk": 47,
+          "ft": 61,
+          "fg": 56,
           "tp": 25,
-          "diq": 36,
-          "oiq": 55,
-          "drb": 51,
-          "pss": 25,
-          "reb": 70
+          "diq": 37,
+          "oiq": 42,
+          "drb": 40,
+          "pss": 40,
+          "reb": 60
         }
       ],
       "injury": {
@@ -2301,8 +2301,8 @@
         "pick": 6
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 55,
+        "exp": 1970
       }
     },
     {
@@ -2322,19 +2322,19 @@
           "season": 1970,
           "hgt": 52,
           "stre": 38,
-          "spd": 56,
+          "spd": 57,
           "jmp": 68,
-          "endu": 47,
-          "ins": 38,
-          "dnk": 55,
+          "endu": 48,
+          "ins": 39,
+          "dnk": 56,
           "ft": 64,
-          "fg": 43,
+          "fg": 50,
           "tp": 25,
-          "diq": 33,
-          "oiq": 57,
-          "drb": 61,
-          "pss": 42,
-          "reb": 44
+          "diq": 34,
+          "oiq": 43,
+          "drb": 47,
+          "pss": 44,
+          "reb": 46
         }
       ],
       "injury": {
@@ -2348,8 +2348,8 @@
         "pick": 20
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 67,
+        "exp": 1970
       }
     },
     {
@@ -2395,8 +2395,8 @@
         "pick": 18
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 53,
+        "exp": 1970
       }
     },
     {
@@ -2442,8 +2442,8 @@
         "pick": 117
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 54,
+        "exp": 1970
       }
     },
     {
@@ -2463,19 +2463,19 @@
           "season": 1970,
           "hgt": 33,
           "stre": 34,
-          "spd": 63,
-          "jmp": 58,
-          "endu": 60,
-          "ins": 51,
-          "dnk": 65,
-          "ft": 77,
-          "fg": 69,
+          "spd": 64,
+          "jmp": 59,
+          "endu": 61,
+          "ins": 53,
+          "dnk": 68,
+          "ft": 76,
+          "fg": 63,
           "tp": 25,
           "diq": 36,
-          "oiq": 67,
-          "drb": 72,
-          "pss": 59,
-          "reb": 25
+          "oiq": 50,
+          "drb": 54,
+          "pss": 49,
+          "reb": 45
         }
       ],
       "injury": {
@@ -2489,8 +2489,8 @@
         "pick": 1
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 58,
+        "exp": 1970
       }
     },
     {
@@ -2536,8 +2536,8 @@
         "pick": 8
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 66,
+        "exp": 1970
       }
     },
     {
@@ -2556,20 +2556,20 @@
         {
           "season": 1970,
           "hgt": 22,
-          "stre": 33,
-          "spd": 52,
-          "jmp": 35,
-          "endu": 26,
-          "ins": 25,
-          "dnk": 25,
-          "ft": 55,
-          "fg": 32,
+          "stre": 31,
+          "spd": 54,
+          "jmp": 37,
+          "endu": 29,
+          "ins": 26,
+          "dnk": 26,
+          "ft": 56,
+          "fg": 42,
           "tp": 25,
           "diq": 35,
-          "oiq": 57,
-          "drb": 66,
-          "pss": 68,
-          "reb": 25
+          "oiq": 50,
+          "drb": 55,
+          "pss": 60,
+          "reb": 32
         }
       ],
       "injury": {
@@ -2583,8 +2583,8 @@
         "pick": 39
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 60,
+        "exp": 1970
       }
     },
     {
@@ -2606,17 +2606,17 @@
           "stre": 25,
           "spd": 68,
           "jmp": 68,
-          "endu": 48,
-          "ins": 30,
-          "dnk": 53,
-          "ft": 65,
-          "fg": 59,
+          "endu": 50,
+          "ins": 31,
+          "dnk": 56,
+          "ft": 67,
+          "fg": 55,
           "tp": 25,
-          "diq": 37,
-          "oiq": 45,
-          "drb": 57,
-          "pss": 26,
-          "reb": 53
+          "diq": 38,
+          "oiq": 37,
+          "drb": 45,
+          "pss": 40,
+          "reb": 50
         }
       ],
       "injury": {
@@ -2630,8 +2630,8 @@
         "pick": 13
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 52,
+        "exp": 1970
       }
     },
     {
@@ -2651,19 +2651,19 @@
           "season": 1970,
           "hgt": 44,
           "stre": 42,
-          "spd": 50,
-          "jmp": 53,
+          "spd": 49,
+          "jmp": 52,
           "endu": 28,
-          "ins": 27,
-          "dnk": 32,
-          "ft": 57,
-          "fg": 30,
+          "ins": 26,
+          "dnk": 30,
+          "ft": 58,
+          "fg": 38,
           "tp": 25,
           "diq": 28,
-          "oiq": 45,
-          "drb": 40,
-          "pss": 25,
-          "reb": 27
+          "oiq": 43,
+          "drb": 38,
+          "pss": 29,
+          "reb": 34
         }
       ],
       "injury": {
@@ -2677,8 +2677,8 @@
         "pick": 7
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 53,
+        "exp": 1970
       }
     },
     {
@@ -2698,18 +2698,18 @@
           "season": 1970,
           "hgt": 30,
           "stre": 25,
-          "spd": 65,
+          "spd": 64,
           "jmp": 48,
-          "endu": 25,
+          "endu": 27,
           "ins": 25,
           "dnk": 25,
-          "ft": 48,
-          "fg": 25,
+          "ft": 52,
+          "fg": 33,
           "tp": 25,
           "diq": 25,
-          "oiq": 38,
+          "oiq": 41,
           "drb": 46,
-          "pss": 28,
+          "pss": 39,
           "reb": 25
         }
       ],
@@ -2724,8 +2724,8 @@
         "pick": 14
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 66,
+        "exp": 1970
       }
     },
     {
@@ -2745,19 +2745,19 @@
           "season": 1970,
           "hgt": 59,
           "stre": 37,
-          "spd": 50,
+          "spd": 51,
           "jmp": 67,
-          "endu": 51,
-          "ins": 36,
-          "dnk": 32,
+          "endu": 53,
+          "ins": 37,
+          "dnk": 33,
           "ft": 54,
-          "fg": 47,
+          "fg": 51,
           "tp": 25,
-          "diq": 44,
-          "oiq": 44,
-          "drb": 47,
-          "pss": 25,
-          "reb": 71
+          "diq": 46,
+          "oiq": 35,
+          "drb": 37,
+          "pss": 35,
+          "reb": 57
         }
       ],
       "injury": {
@@ -2771,8 +2771,8 @@
         "pick": 3
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 52,
+        "exp": 1970
       }
     },
     {
@@ -2794,17 +2794,17 @@
           "stre": 25,
           "spd": 65,
           "jmp": 53,
-          "endu": 25,
+          "endu": 27,
           "ins": 25,
           "dnk": 25,
-          "ft": 52,
-          "fg": 33,
+          "ft": 56,
+          "fg": 42,
           "tp": 25,
           "diq": 26,
-          "oiq": 43,
-          "drb": 61,
-          "pss": 51,
-          "reb": 25
+          "oiq": 33,
+          "drb": 46,
+          "pss": 45,
+          "reb": 37
         }
       ],
       "injury": {
@@ -2818,8 +2818,8 @@
         "pick": 39
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 53,
+        "exp": 1970
       }
     },
     {
@@ -2845,13 +2845,13 @@
           "ins": 52,
           "dnk": 70,
           "ft": 70,
-          "fg": 64,
+          "fg": 61,
           "tp": 25,
           "diq": 53,
-          "oiq": 60,
-          "drb": 66,
-          "pss": 48,
-          "reb": 78
+          "oiq": 56,
+          "drb": 53,
+          "pss": 50,
+          "reb": 67
         }
       ],
       "injury": {
@@ -2865,8 +2865,8 @@
         "pick": 6
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 67,
+        "exp": 1970
       }
     },
     {
@@ -2886,19 +2886,19 @@
           "season": 1970,
           "hgt": 37,
           "stre": 26,
-          "spd": 72,
-          "jmp": 62,
-          "endu": 69,
-          "ins": 49,
-          "dnk": 66,
+          "spd": 73,
+          "jmp": 63,
+          "endu": 65,
+          "ins": 50,
+          "dnk": 68,
           "ft": 79,
-          "fg": 70,
+          "fg": 63,
           "tp": 25,
-          "diq": 50,
-          "oiq": 71,
-          "drb": 73,
-          "pss": 79,
-          "reb": 43
+          "diq": 51,
+          "oiq": 58,
+          "drb": 58,
+          "pss": 62,
+          "reb": 47
         }
       ],
       "injury": {
@@ -2912,8 +2912,8 @@
         "pick": 6
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 61,
+        "exp": 1970
       }
     },
     {
@@ -2936,16 +2936,16 @@
           "spd": 65,
           "jmp": 60,
           "endu": 25,
-          "ins": 25,
+          "ins": 26,
           "dnk": 27,
-          "ft": 50,
-          "fg": 29,
+          "ft": 53,
+          "fg": 37,
           "tp": 25,
           "diq": 25,
           "oiq": 36,
           "drb": 38,
-          "pss": 25,
-          "reb": 25
+          "pss": 27,
+          "reb": 32
         }
       ],
       "injury": {
@@ -2959,8 +2959,8 @@
         "pick": 7
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 54,
+        "exp": 1970
       }
     },
     {
@@ -2985,14 +2985,14 @@
           "endu": 25,
           "ins": 35,
           "dnk": 25,
-          "ft": 38,
-          "fg": 27,
+          "ft": 41,
+          "fg": 35,
           "tp": 25,
           "diq": 25,
           "oiq": 34,
           "drb": 35,
-          "pss": 25,
-          "reb": 25
+          "pss": 26,
+          "reb": 32
         }
       ],
       "injury": {
@@ -3006,8 +3006,8 @@
         "pick": 63
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 52,
+        "exp": 1970
       }
     },
     {
@@ -3026,20 +3026,20 @@
         {
           "season": 1970,
           "hgt": 26,
-          "stre": 33,
-          "spd": 52,
-          "jmp": 37,
-          "endu": 27,
-          "ins": 25,
-          "dnk": 25,
-          "ft": 57,
-          "fg": 26,
+          "stre": 31,
+          "spd": 53,
+          "jmp": 39,
+          "endu": 30,
+          "ins": 26,
+          "dnk": 29,
+          "ft": 59,
+          "fg": 37,
           "tp": 25,
-          "diq": 25,
-          "oiq": 42,
-          "drb": 49,
-          "pss": 31,
-          "reb": 25
+          "diq": 27,
+          "oiq": 45,
+          "drb": 46,
+          "pss": 37,
+          "reb": 26
         }
       ],
       "injury": {
@@ -3053,8 +3053,8 @@
         "pick": 86
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 64,
+        "exp": 1970
       }
     },
     {
@@ -3073,20 +3073,20 @@
         {
           "season": 1970,
           "hgt": 63,
-          "stre": 44,
+          "stre": 45,
           "spd": 55,
-          "jmp": 77,
-          "endu": 80,
-          "ins": 66,
-          "dnk": 79,
-          "ft": 75,
-          "fg": 69,
+          "jmp": 75,
+          "endu": 71,
+          "ins": 62,
+          "dnk": 71,
+          "ft": 69,
+          "fg": 61,
           "tp": 25,
           "diq": 53,
-          "oiq": 64,
-          "drb": 61,
-          "pss": 58,
-          "reb": 81
+          "oiq": 55,
+          "drb": 50,
+          "pss": 51,
+          "reb": 74
         }
       ],
       "injury": {
@@ -3100,8 +3100,8 @@
         "pick": 3
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 59,
+        "exp": 1970
       }
     },
     {
@@ -3122,17 +3122,17 @@
           "stre": 31,
           "spd": 55,
           "jmp": 62,
-          "endu": 25,
+          "endu": 26,
           "ins": 25,
           "dnk": 35,
-          "ft": 59,
-          "fg": 32,
+          "ft": 64,
+          "fg": 44,
           "tp": 25,
           "diq": 27,
-          "oiq": 39,
-          "drb": 41,
-          "pss": 25,
-          "reb": 29
+          "oiq": 33,
+          "drb": 40,
+          "pss": 33,
+          "reb": 41
         }
       ],
       "injury": {
@@ -3141,8 +3141,8 @@
       },
       "college": "University of Akron",
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 55,
+        "exp": 1970
       }
     },
     {
@@ -3162,19 +3162,19 @@
           "season": 1970,
           "hgt": 33,
           "stre": 27,
-          "spd": 69,
-          "jmp": 59,
-          "endu": 49,
-          "ins": 38,
-          "dnk": 50,
+          "spd": 70,
+          "jmp": 60,
+          "endu": 52,
+          "ins": 40,
+          "dnk": 54,
           "ft": 70,
-          "fg": 58,
+          "fg": 57,
           "tp": 25,
-          "diq": 38,
-          "oiq": 60,
-          "drb": 70,
-          "pss": 82,
-          "reb": 25
+          "diq": 40,
+          "oiq": 51,
+          "drb": 57,
+          "pss": 66,
+          "reb": 44
         }
       ],
       "injury": {
@@ -3188,8 +3188,8 @@
         "pick": 9
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 57,
+        "exp": 1970
       }
     },
     {
@@ -3210,18 +3210,18 @@
           "hgt": 26,
           "stre": 25,
           "spd": 63,
-          "jmp": 48,
-          "endu": 30,
+          "jmp": 47,
+          "endu": 31,
           "ins": 25,
-          "dnk": 32,
-          "ft": 62,
-          "fg": 36,
+          "dnk": 31,
+          "ft": 60,
+          "fg": 40,
           "tp": 25,
-          "diq": 28,
-          "oiq": 49,
-          "drb": 65,
-          "pss": 63,
-          "reb": 25
+          "diq": 27,
+          "oiq": 43,
+          "drb": 54,
+          "pss": 54,
+          "reb": 29
         }
       ],
       "injury": {
@@ -3235,8 +3235,8 @@
         "pick": 79
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 53,
+        "exp": 1970
       }
     },
     {
@@ -3257,18 +3257,18 @@
           "hgt": 37,
           "stre": 25,
           "spd": 70,
-          "jmp": 64,
-          "endu": 44,
-          "ins": 41,
-          "dnk": 54,
+          "jmp": 65,
+          "endu": 45,
+          "ins": 43,
+          "dnk": 57,
           "ft": 70,
-          "fg": 59,
+          "fg": 57,
           "tp": 25,
-          "diq": 39,
-          "oiq": 60,
-          "drb": 70,
-          "pss": 68,
-          "reb": 26
+          "diq": 40,
+          "oiq": 49,
+          "drb": 54,
+          "pss": 55,
+          "reb": 46
         }
       ],
       "injury": {
@@ -3282,8 +3282,8 @@
         "pick": 8
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 63,
+        "exp": 1970
       }
     },
     {
@@ -3303,19 +3303,19 @@
           "season": 1970,
           "hgt": 56,
           "stre": 31,
-          "spd": 62,
+          "spd": 63,
           "jmp": 70,
-          "endu": 43,
-          "ins": 44,
-          "dnk": 64,
+          "endu": 44,
+          "ins": 45,
+          "dnk": 66,
           "ft": 70,
-          "fg": 59,
+          "fg": 56,
           "tp": 25,
-          "diq": 45,
-          "oiq": 58,
-          "drb": 59,
-          "pss": 26,
-          "reb": 55
+          "diq": 47,
+          "oiq": 43,
+          "drb": 47,
+          "pss": 42,
+          "reb": 52
         }
       ],
       "injury": {
@@ -3329,8 +3329,8 @@
         "pick": 27
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 53,
+        "exp": 1970
       }
     },
     {
@@ -3349,20 +3349,20 @@
         {
           "season": 1970,
           "hgt": 56,
-          "stre": 42,
-          "spd": 63,
-          "jmp": 79,
-          "endu": 83,
-          "ins": 65,
-          "dnk": 78,
-          "ft": 71,
-          "fg": 75,
+          "stre": 41,
+          "spd": 64,
+          "jmp": 80,
+          "endu": 79,
+          "ins": 66,
+          "dnk": 80,
+          "ft": 68,
+          "fg": 65,
           "tp": 25,
           "diq": 55,
-          "oiq": 61,
-          "drb": 65,
-          "pss": 28,
-          "reb": 81
+          "oiq": 45,
+          "drb": 48,
+          "pss": 42,
+          "reb": 68
         }
       ],
       "injury": {
@@ -3376,8 +3376,8 @@
         "pick": 1
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 60,
+        "exp": 1970
       }
     },
     {
@@ -3397,19 +3397,19 @@
           "season": 1970,
           "hgt": 44,
           "stre": 40,
-          "spd": 50,
-          "jmp": 57,
-          "endu": 30,
+          "spd": 51,
+          "jmp": 58,
+          "endu": 31,
           "ins": 27,
-          "dnk": 34,
-          "ft": 47,
-          "fg": 33,
+          "dnk": 35,
+          "ft": 51,
+          "fg": 47,
           "tp": 25,
-          "diq": 36,
-          "oiq": 47,
-          "drb": 52,
-          "pss": 25,
-          "reb": 54
+          "diq": 37,
+          "oiq": 38,
+          "drb": 43,
+          "pss": 36,
+          "reb": 50
         }
       ],
       "injury": {
@@ -3423,8 +3423,8 @@
         "pick": 29
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 60,
+        "exp": 1970
       }
     },
     {
@@ -3447,16 +3447,16 @@
           "spd": 52,
           "jmp": 56,
           "endu": 42,
-          "ins": 44,
-          "dnk": 58,
-          "ft": 70,
-          "fg": 61,
+          "ins": 43,
+          "dnk": 56,
+          "ft": 67,
+          "fg": 56,
           "tp": 25,
-          "diq": 44,
-          "oiq": 60,
-          "drb": 59,
-          "pss": 26,
-          "reb": 51
+          "diq": 43,
+          "oiq": 50,
+          "drb": 49,
+          "pss": 38,
+          "reb": 48
         }
       ],
       "injury": {
@@ -3470,8 +3470,8 @@
         "pick": 13
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 62,
+        "exp": 1970
       }
     },
     {
@@ -3492,18 +3492,18 @@
           "hgt": 33,
           "stre": 25,
           "spd": 68,
-          "jmp": 59,
-          "endu": 49,
-          "ins": 39,
-          "dnk": 50,
+          "jmp": 60,
+          "endu": 50,
+          "ins": 40,
+          "dnk": 52,
           "ft": 68,
-          "fg": 57,
+          "fg": 54,
           "tp": 25,
-          "diq": 38,
-          "oiq": 58,
-          "drb": 68,
-          "pss": 58,
-          "reb": 25
+          "diq": 39,
+          "oiq": 43,
+          "drb": 52,
+          "pss": 51,
+          "reb": 43
         }
       ],
       "injury": {
@@ -3517,8 +3517,8 @@
         "pick": 23
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 58,
+        "exp": 1970
       }
     },
     {
@@ -3538,18 +3538,18 @@
           "season": 1970,
           "hgt": 37,
           "stre": 33,
-          "spd": 52,
-          "jmp": 52,
+          "spd": 51,
+          "jmp": 51,
           "endu": 25,
           "ins": 25,
           "dnk": 25,
-          "ft": 44,
-          "fg": 26,
+          "ft": 48,
+          "fg": 34,
           "tp": 25,
           "diq": 25,
           "oiq": 36,
-          "drb": 49,
-          "pss": 38,
+          "drb": 44,
+          "pss": 35,
           "reb": 25
         }
       ],
@@ -3564,8 +3564,8 @@
         "pick": 7
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 66,
+        "exp": 1970
       }
     },
     {
@@ -3587,17 +3587,17 @@
           "stre": 25,
           "spd": 65,
           "jmp": 59,
-          "endu": 26,
-          "ins": 27,
-          "dnk": 30,
-          "ft": 58,
-          "fg": 43,
+          "endu": 29,
+          "ins": 26,
+          "dnk": 29,
+          "ft": 61,
+          "fg": 49,
           "tp": 25,
           "diq": 31,
-          "oiq": 46,
-          "drb": 59,
-          "pss": 26,
-          "reb": 32
+          "oiq": 36,
+          "drb": 49,
+          "pss": 38,
+          "reb": 44
         }
       ],
       "injury": {
@@ -3611,8 +3611,8 @@
         "pick": 6
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 52,
+        "exp": 1970
       }
     },
     {
@@ -3632,19 +3632,19 @@
           "season": 1970,
           "hgt": 48,
           "stre": 25,
-          "spd": 60,
-          "jmp": 61,
+          "spd": 61,
+          "jmp": 62,
           "endu": 25,
           "ins": 25,
           "dnk": 25,
-          "ft": 41,
-          "fg": 25,
+          "ft": 44,
+          "fg": 33,
           "tp": 25,
           "diq": 25,
           "oiq": 32,
           "drb": 34,
           "pss": 25,
-          "reb": 25
+          "reb": 31
         }
       ],
       "injury": {
@@ -3658,8 +3658,8 @@
         "pick": 15
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 58,
+        "exp": 1970
       }
     },
     {
@@ -3679,19 +3679,19 @@
           "season": 1970,
           "hgt": 26,
           "stre": 33,
-          "spd": 59,
-          "jmp": 46,
-          "endu": 28,
-          "ins": 26,
+          "spd": 60,
+          "jmp": 47,
+          "endu": 29,
+          "ins": 25,
           "dnk": 25,
-          "ft": 62,
-          "fg": 36,
+          "ft": 68,
+          "fg": 49,
           "tp": 25,
-          "diq": 51,
-          "oiq": 60,
-          "drb": 70,
-          "pss": 91,
-          "reb": 25
+          "diq": 54,
+          "oiq": 59,
+          "drb": 56,
+          "pss": 72,
+          "reb": 46
         }
       ],
       "injury": {
@@ -3700,8 +3700,8 @@
       },
       "college": "Cal Poly Pomona",
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 56,
+        "exp": 1970
       }
     },
     {
@@ -3722,18 +3722,18 @@
           "hgt": 33,
           "stre": 25,
           "spd": 67,
-          "jmp": 54,
-          "endu": 25,
+          "jmp": 55,
+          "endu": 27,
           "ins": 25,
-          "dnk": 25,
-          "ft": 62,
-          "fg": 41,
+          "dnk": 26,
+          "ft": 67,
+          "fg": 46,
           "tp": 25,
           "diq": 28,
-          "oiq": 45,
-          "drb": 63,
-          "pss": 46,
-          "reb": 25
+          "oiq": 35,
+          "drb": 49,
+          "pss": 44,
+          "reb": 39
         }
       ],
       "injury": {
@@ -3747,8 +3747,8 @@
         "pick": 21
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 54,
+        "exp": 1970
       }
     },
     {
@@ -3767,20 +3767,20 @@
         {
           "season": 1970,
           "hgt": 41,
-          "stre": 64,
+          "stre": 63,
           "spd": 50,
           "jmp": 61,
-          "endu": 75,
-          "ins": 67,
-          "dnk": 74,
-          "ft": 78,
-          "fg": 74,
+          "endu": 69,
+          "ins": 65,
+          "dnk": 73,
+          "ft": 75,
+          "fg": 67,
           "tp": 25,
-          "diq": 55,
-          "oiq": 78,
-          "drb": 69,
-          "pss": 80,
-          "reb": 71
+          "diq": 54,
+          "oiq": 67,
+          "drb": 58,
+          "pss": 66,
+          "reb": 63
         }
       ],
       "injury": {
@@ -3794,8 +3794,8 @@
         "pick": 91
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 59,
+        "exp": 1970
       }
     },
     {
@@ -3841,8 +3841,8 @@
         "pick": 3
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 66,
+        "exp": 1970
       }
     },
     {
@@ -3860,20 +3860,20 @@
         {
           "season": 1970,
           "hgt": 67,
-          "stre": 49,
+          "stre": 50,
           "spd": 45,
           "jmp": 69,
-          "endu": 41,
-          "ins": 43,
-          "dnk": 43,
-          "ft": 66,
+          "endu": 44,
+          "ins": 44,
+          "dnk": 45,
+          "ft": 69,
           "fg": 55,
           "tp": 25,
-          "diq": 47,
-          "oiq": 54,
-          "drb": 53,
-          "pss": 33,
-          "reb": 56
+          "diq": 51,
+          "oiq": 43,
+          "drb": 39,
+          "pss": 43,
+          "reb": 53
         }
       ],
       "injury": {
@@ -3882,8 +3882,8 @@
       },
       "college": "Oregon State",
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 67,
+        "exp": 1970
       }
     },
     {
@@ -3902,20 +3902,20 @@
         {
           "season": 1970,
           "hgt": 22,
-          "stre": 37,
+          "stre": 38,
           "spd": 55,
-          "jmp": 43,
+          "jmp": 42,
           "endu": 33,
           "ins": 31,
           "dnk": 26,
-          "ft": 68,
-          "fg": 39,
+          "ft": 70,
+          "fg": 49,
           "tp": 25,
-          "diq": 38,
-          "oiq": 60,
-          "drb": 69,
-          "pss": 61,
-          "reb": 25
+          "diq": 39,
+          "oiq": 49,
+          "drb": 54,
+          "pss": 52,
+          "reb": 41
         }
       ],
       "injury": {
@@ -3929,8 +3929,8 @@
         "pick": 17
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 61,
+        "exp": 1970
       }
     },
     {
@@ -3954,15 +3954,15 @@
           "jmp": 61,
           "endu": 40,
           "ins": 32,
-          "dnk": 37,
-          "ft": 61,
-          "fg": 43,
+          "dnk": 38,
+          "ft": 65,
+          "fg": 50,
           "tp": 25,
           "diq": 34,
-          "oiq": 54,
-          "drb": 62,
-          "pss": 56,
-          "reb": 31
+          "oiq": 42,
+          "drb": 47,
+          "pss": 48,
+          "reb": 42
         }
       ],
       "injury": {
@@ -3976,8 +3976,8 @@
         "pick": 21
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 59,
+        "exp": 1970
       }
     },
     {
@@ -3999,17 +3999,17 @@
           "stre": 25,
           "spd": 70,
           "jmp": 60,
-          "endu": 52,
-          "ins": 30,
+          "endu": 53,
+          "ins": 31,
           "dnk": 35,
           "ft": 70,
           "fg": 53,
           "tp": 25,
           "diq": 37,
-          "oiq": 51,
-          "drb": 67,
-          "pss": 39,
-          "reb": 25
+          "oiq": 40,
+          "drb": 53,
+          "pss": 45,
+          "reb": 43
         }
       ],
       "injury": {
@@ -4023,8 +4023,8 @@
         "pick": 27
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 58,
+        "exp": 1970
       }
     },
     {
@@ -4049,14 +4049,14 @@
           "endu": 25,
           "ins": 25,
           "dnk": 28,
-          "ft": 41,
-          "fg": 25,
+          "ft": 43,
+          "fg": 29,
           "tp": 25,
           "diq": 25,
-          "oiq": 29,
+          "oiq": 27,
           "drb": 37,
-          "pss": 25,
-          "reb": 25
+          "pss": 27,
+          "reb": 29
         }
       ],
       "injury": {
@@ -4070,8 +4070,8 @@
         "pick": 51
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 55,
+        "exp": 1970
       }
     },
     {
@@ -4093,17 +4093,17 @@
           "stre": 25,
           "spd": 70,
           "jmp": 59,
-          "endu": 34,
+          "endu": 33,
           "ins": 25,
           "dnk": 29,
-          "ft": 59,
-          "fg": 44,
+          "ft": 61,
+          "fg": 46,
           "tp": 25,
           "diq": 31,
-          "oiq": 47,
-          "drb": 68,
+          "oiq": 42,
+          "drb": 60,
           "pss": 45,
-          "reb": 25
+          "reb": 34
         }
       ],
       "injury": {
@@ -4117,8 +4117,8 @@
         "pick": 12
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 53,
+        "exp": 1970
       }
     },
     {
@@ -4142,15 +4142,15 @@
           "jmp": 67,
           "endu": 43,
           "ins": 45,
-          "dnk": 55,
-          "ft": 49,
-          "fg": 40,
+          "dnk": 56,
+          "ft": 51,
+          "fg": 49,
           "tp": 25,
-          "diq": 37,
-          "oiq": 45,
-          "drb": 47,
-          "pss": 25,
-          "reb": 61
+          "diq": 38,
+          "oiq": 36,
+          "drb": 37,
+          "pss": 36,
+          "reb": 53
         }
       ],
       "injury": {
@@ -4164,8 +4164,8 @@
         "pick": 15
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 63,
+        "exp": 1970
       }
     },
     {
@@ -4184,25 +4184,25 @@
         {
           "season": 1970,
           "hgt": 48,
-          "stre": 36,
-          "spd": 60,
-          "jmp": 63,
+          "stre": 35,
+          "spd": 57,
+          "jmp": 60,
           "endu": 32,
-          "ins": 54,
-          "dnk": 60,
-          "ft": 63,
-          "fg": 50,
+          "ins": 37,
+          "dnk": 46,
+          "ft": 61,
+          "fg": 41,
           "tp": 25,
-          "diq": 40,
-          "oiq": 60,
-          "drb": 59,
+          "diq": 35,
+          "oiq": 55,
+          "drb": 55,
           "pss": 29,
-          "reb": 48
+          "reb": 44
         }
       ],
       "injury": {
-        "type": "Healthy",
-        "gamesRemaining": 0
+        "type": "Torn Ligament",
+        "gamesRemaining": 92
       },
       "college": "Seattle University",
       "draft": {
@@ -4211,8 +4211,8 @@
         "pick": 42
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 56,
+        "exp": 1970
       }
     },
     {
@@ -4234,17 +4234,17 @@
           "stre": 28,
           "spd": 86,
           "jmp": 65,
-          "endu": 81,
-          "ins": 72,
+          "endu": 73,
+          "ins": 73,
           "dnk": 78,
-          "ft": 87,
-          "fg": 81,
+          "ft": 83,
+          "fg": 71,
           "tp": 28,
           "diq": 63,
-          "oiq": 86,
-          "drb": 79,
-          "pss": 94,
-          "reb": 37
+          "oiq": 77,
+          "drb": 65,
+          "pss": 73,
+          "reb": 47
         }
       ],
       "injury": {
@@ -4258,8 +4258,8 @@
         "pick": 2
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 53,
+        "exp": 1970
       }
     },
     {
@@ -4278,20 +4278,20 @@
         {
           "season": 1970,
           "hgt": 56,
-          "stre": 33,
+          "stre": 32,
           "spd": 56,
           "jmp": 68,
-          "endu": 32,
+          "endu": 33,
           "ins": 40,
-          "dnk": 47,
-          "ft": 56,
-          "fg": 38,
+          "dnk": 46,
+          "ft": 59,
+          "fg": 49,
           "tp": 25,
           "diq": 32,
-          "oiq": 44,
-          "drb": 43,
-          "pss": 25,
-          "reb": 54
+          "oiq": 35,
+          "drb": 36,
+          "pss": 36,
+          "reb": 50
         }
       ],
       "injury": {
@@ -4305,8 +4305,8 @@
         "pick": 5
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 55,
+        "exp": 1970
       }
     },
     {
@@ -4325,20 +4325,20 @@
         {
           "season": 1970,
           "hgt": 74,
-          "stre": 51,
+          "stre": 48,
           "spd": 50,
           "jmp": 89,
-          "endu": 85,
+          "endu": 78,
           "ins": 92,
-          "dnk": 84,
-          "ft": 72,
-          "fg": 81,
+          "dnk": 87,
+          "ft": 67,
+          "fg": 70,
           "tp": 27,
-          "diq": 60,
-          "oiq": 76,
-          "drb": 65,
-          "pss": 72,
-          "reb": 80
+          "diq": 58,
+          "oiq": 61,
+          "drb": 46,
+          "pss": 60,
+          "reb": 66
         }
       ],
       "injury": {
@@ -4352,8 +4352,8 @@
         "pick": 1
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 60,
+        "exp": 1970
       }
     },
     {
@@ -4399,8 +4399,8 @@
         "pick": 73
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 66,
+        "exp": 1970
       }
     },
     {
@@ -4419,20 +4419,20 @@
         {
           "season": 1970,
           "hgt": 52,
-          "stre": 49,
+          "stre": 50,
           "spd": 46,
           "jmp": 64,
-          "endu": 28,
-          "ins": 39,
-          "dnk": 50,
-          "ft": 58,
-          "fg": 43,
+          "endu": 27,
+          "ins": 40,
+          "dnk": 51,
+          "ft": 60,
+          "fg": 52,
           "tp": 25,
-          "diq": 34,
-          "oiq": 55,
-          "drb": 49,
-          "pss": 25,
-          "reb": 27
+          "diq": 35,
+          "oiq": 44,
+          "drb": 44,
+          "pss": 37,
+          "reb": 45
         }
       ],
       "injury": {
@@ -4446,8 +4446,8 @@
         "pick": 5
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 57,
+        "exp": 1970
       }
     },
     {
@@ -4469,17 +4469,17 @@
           "stre": 25,
           "spd": 65,
           "jmp": 56,
-          "endu": 26,
-          "ins": 35,
+          "endu": 28,
+          "ins": 36,
           "dnk": 30,
-          "ft": 55,
-          "fg": 38,
+          "ft": 62,
+          "fg": 51,
           "tp": 25,
-          "diq": 34,
-          "oiq": 59,
-          "drb": 66,
-          "pss": 58,
-          "reb": 25
+          "diq": 35,
+          "oiq": 49,
+          "drb": 51,
+          "pss": 52,
+          "reb": 42
         }
       ],
       "injury": {
@@ -4493,8 +4493,8 @@
         "pick": 64
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 67,
+        "exp": 1970
       }
     },
     {
@@ -4514,19 +4514,19 @@
           "season": 1970,
           "hgt": 59,
           "stre": 40,
-          "spd": 52,
+          "spd": 51,
           "jmp": 70,
           "endu": 25,
           "ins": 26,
           "dnk": 25,
-          "ft": 42,
-          "fg": 25,
+          "ft": 44,
+          "fg": 32,
           "tp": 25,
           "diq": 25,
-          "oiq": 29,
+          "oiq": 27,
           "drb": 36,
-          "pss": 25,
-          "reb": 25
+          "pss": 28,
+          "reb": 31
         }
       ],
       "injury": {
@@ -4540,8 +4540,8 @@
         "pick": 21
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 64,
+        "exp": 1970
       }
     },
     {
@@ -4562,18 +4562,18 @@
           "hgt": 44,
           "stre": 25,
           "spd": 70,
-          "jmp": 68,
-          "endu": 53,
-          "ins": 46,
-          "dnk": 58,
+          "jmp": 69,
+          "endu": 52,
+          "ins": 45,
+          "dnk": 57,
           "ft": 70,
-          "fg": 59,
+          "fg": 57,
           "tp": 25,
-          "diq": 43,
-          "oiq": 60,
-          "drb": 68,
-          "pss": 64,
-          "reb": 56
+          "diq": 41,
+          "oiq": 49,
+          "drb": 49,
+          "pss": 53,
+          "reb": 53
         }
       ],
       "injury": {
@@ -4587,8 +4587,8 @@
         "pick": 45
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 67,
+        "exp": 1970
       }
     },
     {
@@ -4608,19 +4608,19 @@
           "season": 1970,
           "hgt": 48,
           "stre": 25,
-          "spd": 66,
-          "jmp": 65,
-          "endu": 26,
+          "spd": 64,
+          "jmp": 63,
+          "endu": 28,
           "ins": 25,
-          "dnk": 30,
-          "ft": 41,
-          "fg": 25,
+          "dnk": 34,
+          "ft": 44,
+          "fg": 30,
           "tp": 25,
           "diq": 26,
           "oiq": 33,
-          "drb": 38,
-          "pss": 28,
-          "reb": 25
+          "drb": 40,
+          "pss": 34,
+          "reb": 28
         }
       ],
       "injury": {
@@ -4634,8 +4634,8 @@
         "pick": 17
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 61,
+        "exp": 1970
       }
     },
     {
@@ -4654,20 +4654,20 @@
         {
           "season": 1970,
           "hgt": 41,
-          "stre": 34,
-          "spd": 68,
-          "jmp": 65,
-          "endu": 59,
-          "ins": 47,
-          "dnk": 47,
+          "stre": 35,
+          "spd": 70,
+          "jmp": 67,
+          "endu": 63,
+          "ins": 50,
+          "dnk": 50,
           "ft": 70,
-          "fg": 65,
+          "fg": 63,
           "tp": 25,
-          "diq": 46,
-          "oiq": 60,
-          "drb": 70,
-          "pss": 63,
-          "reb": 25
+          "diq": 49,
+          "oiq": 56,
+          "drb": 54,
+          "pss": 53,
+          "reb": 45
         }
       ],
       "injury": {
@@ -4681,8 +4681,8 @@
         "pick": 27
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 58,
+        "exp": 1970
       }
     },
     {
@@ -4702,19 +4702,19 @@
           "season": 1970,
           "hgt": 26,
           "stre": 36,
-          "spd": 66,
-          "jmp": 54,
-          "endu": 53,
-          "ins": 59,
-          "dnk": 68,
+          "spd": 68,
+          "jmp": 55,
+          "endu": 57,
+          "ins": 63,
+          "dnk": 74,
           "ft": 84,
-          "fg": 68,
+          "fg": 63,
           "tp": 25,
-          "diq": 47,
-          "oiq": 74,
-          "drb": 72,
-          "pss": 82,
-          "reb": 25
+          "diq": 50,
+          "oiq": 63,
+          "drb": 57,
+          "pss": 65,
+          "reb": 45
         }
       ],
       "injury": {
@@ -4728,8 +4728,8 @@
         "pick": 18
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 60,
+        "exp": 1970
       }
     },
     {
@@ -4751,17 +4751,17 @@
           "stre": 45,
           "spd": 46,
           "jmp": 35,
-          "endu": 31,
+          "endu": 32,
           "ins": 25,
           "dnk": 26,
-          "ft": 48,
-          "fg": 29,
+          "ft": 52,
+          "fg": 36,
           "tp": 25,
-          "diq": 28,
-          "oiq": 47,
-          "drb": 54,
-          "pss": 59,
-          "reb": 25
+          "diq": 29,
+          "oiq": 44,
+          "drb": 43,
+          "pss": 53,
+          "reb": 30
         }
       ],
       "injury": {
@@ -4775,8 +4775,8 @@
         "pick": 5
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 57,
+        "exp": 1970
       }
     },
     {
@@ -4797,18 +4797,18 @@
           "hgt": 41,
           "stre": 25,
           "spd": 68,
-          "jmp": 62,
-          "endu": 45,
-          "ins": 41,
-          "dnk": 40,
-          "ft": 58,
-          "fg": 43,
+          "jmp": 63,
+          "endu": 48,
+          "ins": 43,
+          "dnk": 42,
+          "ft": 65,
+          "fg": 54,
           "tp": 25,
-          "diq": 36,
-          "oiq": 55,
-          "drb": 59,
-          "pss": 30,
-          "reb": 56
+          "diq": 38,
+          "oiq": 42,
+          "drb": 45,
+          "pss": 41,
+          "reb": 53
         }
       ],
       "injury": {
@@ -4822,8 +4822,8 @@
         "pick": 50
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 57,
+        "exp": 1970
       }
     },
     {
@@ -4869,8 +4869,8 @@
         "pick": 35
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 60,
+        "exp": 1970
       }
     },
     {
@@ -4888,20 +4888,20 @@
         {
           "season": 1970,
           "hgt": 37,
-          "stre": 28,
-          "spd": 62,
-          "jmp": 51,
+          "stre": 29,
+          "spd": 61,
+          "jmp": 50,
           "endu": 47,
-          "ins": 44,
-          "dnk": 47,
-          "ft": 66,
-          "fg": 60,
+          "ins": 45,
+          "dnk": 46,
+          "ft": 65,
+          "fg": 56,
           "tp": 25,
-          "diq": 52,
-          "oiq": 58,
-          "drb": 68,
-          "pss": 60,
-          "reb": 25
+          "diq": 53,
+          "oiq": 51,
+          "drb": 52,
+          "pss": 50,
+          "reb": 43
         }
       ],
       "injury": {
@@ -4910,8 +4910,8 @@
       },
       "college": "Tennessee State",
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 61,
+        "exp": 1970
       }
     },
     {
@@ -4930,20 +4930,20 @@
         {
           "season": 1970,
           "hgt": 59,
-          "stre": 43,
+          "stre": 44,
           "spd": 52,
           "jmp": 70,
           "endu": 25,
           "ins": 28,
           "dnk": 25,
-          "ft": 33,
-          "fg": 26,
+          "ft": 37,
+          "fg": 36,
           "tp": 25,
           "diq": 25,
-          "oiq": 33,
+          "oiq": 28,
           "drb": 37,
-          "pss": 25,
-          "reb": 25
+          "pss": 29,
+          "reb": 34
         }
       ],
       "injury": {
@@ -4957,8 +4957,8 @@
         "pick": 9
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 67,
+        "exp": 1970
       }
     },
     {
@@ -4984,13 +4984,13 @@
           "ins": 39,
           "dnk": 52,
           "ft": 69,
-          "fg": 60,
+          "fg": 57,
           "tp": 25,
-          "diq": 48,
-          "oiq": 59,
-          "drb": 66,
-          "pss": 70,
-          "reb": 25
+          "diq": 49,
+          "oiq": 50,
+          "drb": 52,
+          "pss": 57,
+          "reb": 41
         }
       ],
       "injury": {
@@ -5004,8 +5004,8 @@
         "pick": 2
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 61,
+        "exp": 1970
       }
     },
     {
@@ -5027,17 +5027,17 @@
           "stre": 44,
           "spd": 55,
           "jmp": 62,
-          "endu": 55,
+          "endu": 54,
           "ins": 39,
-          "dnk": 54,
-          "ft": 65,
-          "fg": 63,
+          "dnk": 53,
+          "ft": 64,
+          "fg": 58,
           "tp": 25,
-          "diq": 62,
-          "oiq": 60,
-          "drb": 65,
-          "pss": 42,
-          "reb": 70
+          "diq": 65,
+          "oiq": 47,
+          "drb": 49,
+          "pss": 46,
+          "reb": 58
         }
       ],
       "injury": {
@@ -5051,8 +5051,8 @@
         "pick": 4
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 65,
+        "exp": 1970
       }
     },
     {
@@ -5071,20 +5071,20 @@
         {
           "season": 1970,
           "hgt": 37,
-          "stre": 35,
-          "spd": 73,
-          "jmp": 68,
-          "endu": 77,
-          "ins": 70,
-          "dnk": 75,
-          "ft": 78,
-          "fg": 71,
+          "stre": 34,
+          "spd": 74,
+          "jmp": 69,
+          "endu": 72,
+          "ins": 72,
+          "dnk": 77,
+          "ft": 76,
+          "fg": 66,
           "tp": 28,
-          "diq": 66,
-          "oiq": 78,
-          "drb": 78,
-          "pss": 94,
-          "reb": 47
+          "diq": 67,
+          "oiq": 69,
+          "drb": 64,
+          "pss": 73,
+          "reb": 49
         }
       ],
       "injury": {
@@ -5098,8 +5098,8 @@
         "pick": 5
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 60,
+        "exp": 1970
       }
     },
     {
@@ -5118,20 +5118,20 @@
         {
           "season": 1970,
           "hgt": 52,
-          "stre": 32,
+          "stre": 31,
           "spd": 58,
           "jmp": 68,
           "endu": 25,
-          "ins": 30,
-          "dnk": 34,
-          "ft": 49,
-          "fg": 29,
+          "ins": 29,
+          "dnk": 33,
+          "ft": 48,
+          "fg": 33,
           "tp": 25,
           "diq": 25,
-          "oiq": 37,
+          "oiq": 35,
           "drb": 37,
-          "pss": 25,
-          "reb": 25
+          "pss": 27,
+          "reb": 28
         }
       ],
       "injury": {
@@ -5145,8 +5145,8 @@
         "pick": 10
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 59,
+        "exp": 1970
       }
     },
     {
@@ -5165,20 +5165,20 @@
         {
           "season": 1970,
           "hgt": 37,
-          "stre": 28,
+          "stre": 29,
           "spd": 61,
           "jmp": 57,
           "endu": 25,
-          "ins": 26,
-          "dnk": 26,
+          "ins": 27,
+          "dnk": 27,
           "ft": 60,
-          "fg": 27,
+          "fg": 34,
           "tp": 25,
-          "diq": 26,
-          "oiq": 32,
-          "drb": 38,
-          "pss": 25,
-          "reb": 25
+          "diq": 27,
+          "oiq": 34,
+          "drb": 41,
+          "pss": 27,
+          "reb": 28
         }
       ],
       "injury": {
@@ -5192,8 +5192,8 @@
         "pick": 30
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 59,
+        "exp": 1970
       }
     },
     {
@@ -5212,20 +5212,20 @@
         {
           "season": 1970,
           "hgt": 59,
-          "stre": 58,
+          "stre": 59,
           "spd": 63,
-          "jmp": 87,
-          "endu": 76,
-          "ins": 84,
-          "dnk": 66,
-          "ft": 82,
-          "fg": 79,
+          "jmp": 88,
+          "endu": 74,
+          "ins": 87,
+          "dnk": 68,
+          "ft": 81,
+          "fg": 72,
           "tp": 33,
-          "diq": 77,
-          "oiq": 78,
-          "drb": 65,
-          "pss": 30,
-          "reb": 77
+          "diq": 82,
+          "oiq": 64,
+          "drb": 49,
+          "pss": 43,
+          "reb": 65
         }
       ],
       "injury": {
@@ -5239,8 +5239,8 @@
         "pick": 10
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 66,
+        "exp": 1970
       }
     },
     {
@@ -5259,20 +5259,20 @@
         {
           "season": 1970,
           "hgt": 37,
-          "stre": 28,
+          "stre": 27,
           "spd": 58,
           "jmp": 55,
           "endu": 32,
           "ins": 33,
           "dnk": 36,
-          "ft": 57,
-          "fg": 38,
+          "ft": 61,
+          "fg": 50,
           "tp": 25,
           "diq": 33,
-          "oiq": 53,
-          "drb": 59,
-          "pss": 44,
-          "reb": 25
+          "oiq": 39,
+          "drb": 44,
+          "pss": 45,
+          "reb": 41
         }
       ],
       "injury": {
@@ -5286,8 +5286,8 @@
         "pick": 128
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 56,
+        "exp": 1970
       }
     },
     {
@@ -5309,17 +5309,17 @@
           "stre": 45,
           "spd": 54,
           "jmp": 60,
-          "endu": 35,
+          "endu": 34,
           "ins": 42,
-          "dnk": 47,
-          "ft": 68,
-          "fg": 56,
+          "dnk": 45,
+          "ft": 70,
+          "fg": 57,
           "tp": 25,
           "diq": 38,
-          "oiq": 60,
-          "drb": 61,
-          "pss": 34,
-          "reb": 26
+          "oiq": 46,
+          "drb": 47,
+          "pss": 44,
+          "reb": 44
         }
       ],
       "injury": {
@@ -5333,8 +5333,8 @@
         "pick": 1
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 62,
+        "exp": 1970
       }
     },
     {
@@ -5354,19 +5354,19 @@
           "season": 1970,
           "hgt": 48,
           "stre": 25,
-          "spd": 69,
+          "spd": 70,
           "jmp": 65,
           "endu": 28,
           "ins": 33,
           "dnk": 47,
-          "ft": 65,
-          "fg": 39,
+          "ft": 67,
+          "fg": 51,
           "tp": 25,
-          "diq": 39,
-          "oiq": 58,
-          "drb": 59,
-          "pss": 32,
-          "reb": 30
+          "diq": 40,
+          "oiq": 45,
+          "drb": 45,
+          "pss": 44,
+          "reb": 46
         }
       ],
       "injury": {
@@ -5380,8 +5380,8 @@
         "pick": 5
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 57,
+        "exp": 1970
       }
     },
     {
@@ -5403,17 +5403,17 @@
           "stre": 25,
           "spd": 70,
           "jmp": 57,
-          "endu": 26,
-          "ins": 25,
-          "dnk": 26,
-          "ft": 45,
-          "fg": 26,
+          "endu": 28,
+          "ins": 26,
+          "dnk": 27,
+          "ft": 50,
+          "fg": 34,
           "tp": 25,
-          "diq": 25,
-          "oiq": 34,
-          "drb": 43,
-          "pss": 27,
-          "reb": 25
+          "diq": 26,
+          "oiq": 32,
+          "drb": 42,
+          "pss": 33,
+          "reb": 28
         }
       ],
       "injury": {
@@ -5427,8 +5427,8 @@
         "pick": 11
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 56,
+        "exp": 1970
       }
     },
     {
@@ -5450,17 +5450,17 @@
           "stre": 25,
           "spd": 69,
           "jmp": 55,
-          "endu": 38,
-          "ins": 36,
-          "dnk": 38,
-          "ft": 66,
-          "fg": 47,
+          "endu": 36,
+          "ins": 35,
+          "dnk": 37,
+          "ft": 67,
+          "fg": 52,
           "tp": 25,
-          "diq": 33,
-          "oiq": 59,
-          "drb": 69,
-          "pss": 79,
-          "reb": 25
+          "diq": 31,
+          "oiq": 47,
+          "drb": 53,
+          "pss": 61,
+          "reb": 43
         }
       ],
       "injury": {
@@ -5474,8 +5474,8 @@
         "pick": 3
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 54,
+        "exp": 1970
       }
     },
     {
@@ -5494,20 +5494,20 @@
         {
           "season": 1970,
           "hgt": 52,
-          "stre": 39,
+          "stre": 40,
           "spd": 63,
-          "jmp": 67,
+          "jmp": 66,
           "endu": 47,
           "ins": 48,
-          "dnk": 58,
+          "dnk": 57,
           "ft": 70,
-          "fg": 62,
+          "fg": 59,
           "tp": 25,
           "diq": 44,
-          "oiq": 60,
-          "drb": 59,
-          "pss": 26,
-          "reb": 61
+          "oiq": 52,
+          "drb": 47,
+          "pss": 40,
+          "reb": 55
         }
       ],
       "injury": {
@@ -5521,8 +5521,8 @@
         "pick": 1
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 61,
+        "exp": 1970
       }
     },
     {
@@ -5541,20 +5541,20 @@
         {
           "season": 1970,
           "hgt": 44,
-          "stre": 31,
-          "spd": 58,
-          "jmp": 59,
-          "endu": 28,
-          "ins": 31,
-          "dnk": 37,
-          "ft": 64,
-          "fg": 40,
+          "stre": 32,
+          "spd": 59,
+          "jmp": 60,
+          "endu": 31,
+          "ins": 32,
+          "dnk": 39,
+          "ft": 68,
+          "fg": 50,
           "tp": 25,
-          "diq": 32,
-          "oiq": 54,
-          "drb": 55,
-          "pss": 25,
-          "reb": 29
+          "diq": 33,
+          "oiq": 42,
+          "drb": 43,
+          "pss": 39,
+          "reb": 43
         }
       ],
       "injury": {
@@ -5568,8 +5568,8 @@
         "pick": 22
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 56,
+        "exp": 1970
       }
     },
     {
@@ -5615,8 +5615,8 @@
         "pick": 52
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 63,
+        "exp": 1970
       }
     },
     {
@@ -5638,17 +5638,17 @@
           "stre": 25,
           "spd": 70,
           "jmp": 60,
-          "endu": 32,
+          "endu": 33,
           "ins": 25,
           "dnk": 30,
-          "ft": 55,
-          "fg": 46,
+          "ft": 60,
+          "fg": 50,
           "tp": 25,
           "diq": 30,
-          "oiq": 48,
-          "drb": 68,
-          "pss": 61,
-          "reb": 25
+          "oiq": 38,
+          "drb": 53,
+          "pss": 53,
+          "reb": 43
         }
       ],
       "injury": {
@@ -5662,8 +5662,8 @@
         "pick": 16
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 60,
+        "exp": 1970
       }
     },
     {
@@ -5709,8 +5709,8 @@
         "pick": 122
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 62,
+        "exp": 1970
       }
     },
     {
@@ -5729,20 +5729,20 @@
         {
           "season": 1970,
           "hgt": 44,
-          "stre": 41,
-          "spd": 54,
-          "jmp": 57,
-          "endu": 43,
-          "ins": 42,
-          "dnk": 49,
+          "stre": 42,
+          "spd": 53,
+          "jmp": 56,
+          "endu": 41,
+          "ins": 43,
+          "dnk": 48,
           "ft": 69,
-          "fg": 54,
+          "fg": 55,
           "tp": 25,
           "diq": 43,
-          "oiq": 59,
-          "drb": 62,
-          "pss": 33,
-          "reb": 59
+          "oiq": 50,
+          "drb": 46,
+          "pss": 43,
+          "reb": 53
         }
       ],
       "injury": {
@@ -5756,8 +5756,8 @@
         "pick": 7
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 57,
+        "exp": 1970
       }
     },
     {
@@ -5776,20 +5776,20 @@
         {
           "season": 1970,
           "hgt": 52,
-          "stre": 32,
+          "stre": 33,
           "spd": 59,
-          "jmp": 67,
+          "jmp": 68,
           "endu": 25,
           "ins": 25,
-          "dnk": 29,
-          "ft": 46,
-          "fg": 26,
+          "dnk": 28,
+          "ft": 50,
+          "fg": 36,
           "tp": 25,
           "diq": 25,
-          "oiq": 41,
-          "drb": 39,
-          "pss": 25,
-          "reb": 26
+          "oiq": 38,
+          "drb": 36,
+          "pss": 29,
+          "reb": 34
         }
       ],
       "injury": {
@@ -5803,8 +5803,8 @@
         "pick": 12
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 57,
+        "exp": 1970
       }
     },
     {
@@ -5824,19 +5824,19 @@
           "season": 1970,
           "hgt": 56,
           "stre": 33,
-          "spd": 63,
-          "jmp": 74,
-          "endu": 62,
-          "ins": 64,
-          "dnk": 79,
-          "ft": 70,
-          "fg": 71,
+          "spd": 64,
+          "jmp": 76,
+          "endu": 64,
+          "ins": 67,
+          "dnk": 83,
+          "ft": 69,
+          "fg": 65,
           "tp": 25,
-          "diq": 37,
-          "oiq": 59,
-          "drb": 54,
-          "pss": 25,
-          "reb": 67
+          "diq": 38,
+          "oiq": 45,
+          "drb": 40,
+          "pss": 42,
+          "reb": 58
         }
       ],
       "injury": {
@@ -5850,8 +5850,8 @@
         "pick": 19
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 62,
+        "exp": 1970
       }
     },
     {
@@ -5871,19 +5871,19 @@
           "season": 1970,
           "hgt": 41,
           "stre": 35,
-          "spd": 62,
+          "spd": 63,
           "jmp": 63,
-          "endu": 49,
-          "ins": 49,
-          "dnk": 51,
+          "endu": 50,
+          "ins": 51,
+          "dnk": 53,
           "ft": 70,
           "fg": 58,
           "tp": 25,
           "diq": 36,
-          "oiq": 60,
-          "drb": 70,
-          "pss": 73,
-          "reb": 28
+          "oiq": 54,
+          "drb": 56,
+          "pss": 59,
+          "reb": 45
         }
       ],
       "injury": {
@@ -5897,8 +5897,8 @@
         "pick": 14
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 58,
+        "exp": 1970
       }
     },
     {
@@ -5944,8 +5944,8 @@
         "pick": 2
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 58,
+        "exp": 1970
       }
     },
     {
@@ -5965,19 +5965,19 @@
           "season": 1970,
           "hgt": 26,
           "stre": 36,
-          "spd": 64,
-          "jmp": 49,
-          "endu": 61,
+          "spd": 63,
+          "jmp": 48,
+          "endu": 59,
           "ins": 46,
-          "dnk": 56,
+          "dnk": 55,
           "ft": 70,
-          "fg": 63,
+          "fg": 57,
           "tp": 25,
           "diq": 46,
-          "oiq": 70,
-          "drb": 70,
-          "pss": 98,
-          "reb": 41
+          "oiq": 69,
+          "drb": 63,
+          "pss": 74,
+          "reb": 47
         }
       ],
       "injury": {
@@ -5991,8 +5991,8 @@
         "pick": 6
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 53,
+        "exp": 1970
       }
     },
     {
@@ -6017,14 +6017,14 @@
           "endu": 25,
           "ins": 27,
           "dnk": 26,
-          "ft": 48,
-          "fg": 29,
+          "ft": 51,
+          "fg": 38,
           "tp": 25,
           "diq": 25,
-          "oiq": 44,
-          "drb": 50,
-          "pss": 32,
-          "reb": 25
+          "oiq": 38,
+          "drb": 42,
+          "pss": 37,
+          "reb": 29
         }
       ],
       "injury": {
@@ -6038,8 +6038,8 @@
         "pick": 32
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 66,
+        "exp": 1970
       }
     },
     {
@@ -6060,18 +6060,18 @@
           "hgt": 30,
           "stre": 25,
           "spd": 70,
-          "jmp": 59,
+          "jmp": 60,
           "endu": 62,
-          "ins": 52,
-          "dnk": 58,
+          "ins": 53,
+          "dnk": 59,
           "ft": 70,
-          "fg": 69,
+          "fg": 63,
           "tp": 25,
-          "diq": 49,
-          "oiq": 60,
-          "drb": 70,
-          "pss": 82,
-          "reb": 29
+          "diq": 50,
+          "oiq": 59,
+          "drb": 57,
+          "pss": 63,
+          "reb": 45
         }
       ],
       "injury": {
@@ -6085,8 +6085,8 @@
         "pick": 37
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 53,
+        "exp": 1970
       }
     },
     {
@@ -6105,20 +6105,20 @@
         {
           "season": 1970,
           "hgt": 44,
-          "stre": 40,
-          "spd": 72,
-          "jmp": 74,
-          "endu": 75,
-          "ins": 73,
-          "dnk": 81,
-          "ft": 78,
-          "fg": 78,
+          "stre": 41,
+          "spd": 73,
+          "jmp": 75,
+          "endu": 72,
+          "ins": 76,
+          "dnk": 83,
+          "ft": 75,
+          "fg": 68,
           "tp": 28,
           "diq": 55,
-          "oiq": 76,
-          "drb": 73,
-          "pss": 75,
-          "reb": 75
+          "oiq": 62,
+          "drb": 54,
+          "pss": 57,
+          "reb": 64
         }
       ],
       "injury": {
@@ -6132,8 +6132,8 @@
         "pick": 7
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 62,
+        "exp": 1970
       }
     },
     {
@@ -6154,18 +6154,18 @@
           "hgt": 30,
           "stre": 28,
           "spd": 71,
-          "jmp": 53,
-          "endu": 62,
-          "ins": 49,
+          "jmp": 52,
+          "endu": 60,
+          "ins": 50,
           "dnk": 56,
-          "ft": 78,
-          "fg": 72,
+          "ft": 77,
+          "fg": 63,
           "tp": 25,
-          "diq": 53,
-          "oiq": 74,
-          "drb": 74,
-          "pss": 81,
-          "reb": 38
+          "diq": 55,
+          "oiq": 59,
+          "drb": 57,
+          "pss": 62,
+          "reb": 47
         }
       ],
       "injury": {
@@ -6179,8 +6179,8 @@
         "pick": 14
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 63,
+        "exp": 1970
       }
     },
     {
@@ -6201,18 +6201,18 @@
           "hgt": 41,
           "stre": 25,
           "spd": 66,
-          "jmp": 60,
-          "endu": 28,
-          "ins": 30,
-          "dnk": 30,
-          "ft": 56,
-          "fg": 33,
+          "jmp": 61,
+          "endu": 29,
+          "ins": 29,
+          "dnk": 31,
+          "ft": 62,
+          "fg": 47,
           "tp": 25,
-          "diq": 28,
-          "oiq": 52,
-          "drb": 64,
-          "pss": 52,
-          "reb": 25
+          "diq": 29,
+          "oiq": 38,
+          "drb": 48,
+          "pss": 46,
+          "reb": 41
         }
       ],
       "injury": {
@@ -6226,8 +6226,8 @@
         "pick": 9
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 65,
+        "exp": 1970
       }
     },
     {
@@ -6246,20 +6246,20 @@
         {
           "season": 1970,
           "hgt": 52,
-          "stre": 35,
+          "stre": 34,
           "spd": 60,
           "jmp": 68,
           "endu": 29,
           "ins": 29,
-          "dnk": 34,
-          "ft": 54,
-          "fg": 32,
+          "dnk": 35,
+          "ft": 57,
+          "fg": 40,
           "tp": 25,
           "diq": 27,
-          "oiq": 44,
-          "drb": 39,
-          "pss": 25,
-          "reb": 28
+          "oiq": 41,
+          "drb": 40,
+          "pss": 28,
+          "reb": 36
         }
       ],
       "injury": {
@@ -6273,8 +6273,8 @@
         "pick": 1
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 63,
+        "exp": 1970
       }
     },
     {
@@ -6293,20 +6293,20 @@
         {
           "season": 1970,
           "hgt": 59,
-          "stre": 50,
-          "spd": 53,
+          "stre": 52,
+          "spd": 54,
           "jmp": 70,
-          "endu": 46,
-          "ins": 65,
-          "dnk": 45,
-          "ft": 61,
-          "fg": 54,
+          "endu": 48,
+          "ins": 70,
+          "dnk": 47,
+          "ft": 62,
+          "fg": 58,
           "tp": 25,
-          "diq": 51,
-          "oiq": 60,
-          "drb": 57,
-          "pss": 44,
-          "reb": 64
+          "diq": 54,
+          "oiq": 57,
+          "drb": 41,
+          "pss": 47,
+          "reb": 57
         }
       ],
       "injury": {
@@ -6320,8 +6320,8 @@
         "pick": 3
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 58,
+        "exp": 1970
       }
     },
     {
@@ -6341,19 +6341,19 @@
           "season": 1970,
           "hgt": 56,
           "stre": 41,
-          "spd": 47,
-          "jmp": 65,
-          "endu": 27,
-          "ins": 25,
-          "dnk": 39,
-          "ft": 62,
-          "fg": 34,
+          "spd": 48,
+          "jmp": 64,
+          "endu": 33,
+          "ins": 27,
+          "dnk": 42,
+          "ft": 64,
+          "fg": 45,
           "tp": 25,
-          "diq": 33,
-          "oiq": 50,
-          "drb": 55,
-          "pss": 25,
-          "reb": 45
+          "diq": 35,
+          "oiq": 46,
+          "drb": 50,
+          "pss": 31,
+          "reb": 52
         }
       ],
       "injury": {
@@ -6367,8 +6367,8 @@
         "pick": 4
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 54,
+        "exp": 1970
       }
     },
     {
@@ -6388,19 +6388,19 @@
           "season": 1970,
           "hgt": 30,
           "stre": 25,
-          "spd": 68,
-          "jmp": 53,
+          "spd": 69,
+          "jmp": 54,
           "endu": 35,
-          "ins": 31,
-          "dnk": 39,
+          "ins": 32,
+          "dnk": 41,
           "ft": 69,
-          "fg": 52,
+          "fg": 53,
           "tp": 25,
-          "diq": 39,
-          "oiq": 59,
-          "drb": 69,
-          "pss": 68,
-          "reb": 25
+          "diq": 40,
+          "oiq": 48,
+          "drb": 53,
+          "pss": 55,
+          "reb": 42
         }
       ],
       "injury": {
@@ -6414,8 +6414,8 @@
         "pick": 20
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 57,
+        "exp": 1970
       }
     },
     {
@@ -6435,19 +6435,19 @@
           "season": 1970,
           "hgt": 44,
           "stre": 33,
-          "spd": 57,
-          "jmp": 61,
+          "spd": 56,
+          "jmp": 60,
           "endu": 25,
           "ins": 27,
-          "dnk": 29,
-          "ft": 43,
-          "fg": 28,
+          "dnk": 28,
+          "ft": 45,
+          "fg": 33,
           "tp": 25,
           "diq": 25,
-          "oiq": 36,
-          "drb": 37,
-          "pss": 25,
-          "reb": 25
+          "oiq": 35,
+          "drb": 36,
+          "pss": 28,
+          "reb": 29
         }
       ],
       "injury": {
@@ -6461,8 +6461,8 @@
         "pick": 162
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 56,
+        "exp": 1970
       }
     },
     {
@@ -6508,8 +6508,8 @@
         "pick": 56
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 61,
+        "exp": 1970
       }
     },
     {
@@ -6528,20 +6528,20 @@
         {
           "season": 1970,
           "hgt": 44,
-          "stre": 32,
-          "spd": 62,
-          "jmp": 64,
-          "endu": 51,
-          "ins": 40,
-          "dnk": 53,
-          "ft": 66,
-          "fg": 53,
+          "stre": 33,
+          "spd": 63,
+          "jmp": 65,
+          "endu": 52,
+          "ins": 41,
+          "dnk": 55,
+          "ft": 68,
+          "fg": 55,
           "tp": 25,
-          "diq": 42,
-          "oiq": 57,
-          "drb": 56,
-          "pss": 25,
-          "reb": 61
+          "diq": 43,
+          "oiq": 44,
+          "drb": 45,
+          "pss": 37,
+          "reb": 54
         }
       ],
       "injury": {
@@ -6555,8 +6555,8 @@
         "pick": 8
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 67,
+        "exp": 1970
       }
     },
     {
@@ -6582,13 +6582,13 @@
           "ins": 25,
           "dnk": 39,
           "ft": 46,
-          "fg": 25,
+          "fg": 32,
           "tp": 25,
           "diq": 25,
           "oiq": 37,
           "drb": 35,
-          "pss": 25,
-          "reb": 27
+          "pss": 26,
+          "reb": 33
         }
       ],
       "injury": {
@@ -6602,8 +6602,8 @@
         "pick": 8
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 64,
+        "exp": 1970
       }
     },
     {
@@ -6628,14 +6628,14 @@
           "endu": 25,
           "ins": 25,
           "dnk": 25,
-          "ft": 44,
-          "fg": 30,
+          "ft": 47,
+          "fg": 36,
           "tp": 25,
           "diq": 25,
           "oiq": 36,
-          "drb": 35,
-          "pss": 25,
-          "reb": 25
+          "drb": 34,
+          "pss": 26,
+          "reb": 30
         }
       ],
       "injury": {
@@ -6649,8 +6649,8 @@
         "pick": 7
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 57,
+        "exp": 1970
       }
     },
     {
@@ -6672,17 +6672,17 @@
           "stre": 46,
           "spd": 53,
           "jmp": 70,
-          "endu": 41,
-          "ins": 60,
-          "dnk": 45,
+          "endu": 42,
+          "ins": 62,
+          "dnk": 47,
           "ft": 70,
-          "fg": 52,
+          "fg": 58,
           "tp": 25,
           "diq": 39,
-          "oiq": 60,
-          "drb": 50,
-          "pss": 27,
-          "reb": 54
+          "oiq": 50,
+          "drb": 39,
+          "pss": 40,
+          "reb": 51
         }
       ],
       "injury": {
@@ -6696,8 +6696,8 @@
         "pick": 70
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 56,
+        "exp": 1970
       }
     },
     {
@@ -6717,19 +6717,19 @@
           "season": 1970,
           "hgt": 26,
           "stre": 25,
-          "spd": 77,
-          "jmp": 57,
-          "endu": 73,
-          "ins": 54,
-          "dnk": 71,
-          "ft": 81,
-          "fg": 67,
+          "spd": 78,
+          "jmp": 58,
+          "endu": 70,
+          "ins": 55,
+          "dnk": 73,
+          "ft": 78,
+          "fg": 60,
           "tp": 25,
           "diq": 42,
-          "oiq": 74,
-          "drb": 75,
-          "pss": 91,
-          "reb": 32
+          "oiq": 64,
+          "drb": 60,
+          "pss": 71,
+          "reb": 47
         }
       ],
       "injury": {
@@ -6743,8 +6743,8 @@
         "pick": 10
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 63,
+        "exp": 1970
       }
     },
     {
@@ -6764,19 +6764,19 @@
           "season": 1970,
           "hgt": 48,
           "stre": 25,
-          "spd": 61,
-          "jmp": 62,
+          "spd": 60,
+          "jmp": 61,
           "endu": 25,
           "ins": 25,
           "dnk": 25,
-          "ft": 35,
-          "fg": 25,
+          "ft": 39,
+          "fg": 32,
           "tp": 25,
           "diq": 25,
           "oiq": 32,
-          "drb": 34,
+          "drb": 35,
           "pss": 25,
-          "reb": 29
+          "reb": 34
         }
       ],
       "injury": {
@@ -6790,8 +6790,8 @@
         "pick": 33
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 53,
+        "exp": 1970
       }
     },
     {
@@ -6811,19 +6811,19 @@
           "season": 1970,
           "hgt": 52,
           "stre": 40,
-          "spd": 71,
-          "jmp": 79,
-          "endu": 77,
-          "ins": 70,
-          "dnk": 79,
-          "ft": 82,
-          "fg": 74,
+          "spd": 72,
+          "jmp": 80,
+          "endu": 74,
+          "ins": 74,
+          "dnk": 83,
+          "ft": 79,
+          "fg": 67,
           "tp": 28,
-          "diq": 52,
-          "oiq": 79,
-          "drb": 73,
-          "pss": 78,
-          "reb": 69
+          "diq": 51,
+          "oiq": 66,
+          "drb": 55,
+          "pss": 60,
+          "reb": 59
         }
       ],
       "injury": {
@@ -6832,8 +6832,8 @@
       },
       "college": "Iowa",
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 54,
+        "exp": 1970
       }
     },
     {
@@ -6852,20 +6852,20 @@
         {
           "season": 1970,
           "hgt": 48,
-          "stre": 37,
-          "spd": 58,
-          "jmp": 65,
+          "stre": 35,
+          "spd": 57,
+          "jmp": 64,
           "endu": 25,
-          "ins": 26,
-          "dnk": 29,
-          "ft": 42,
-          "fg": 26,
+          "ins": 27,
+          "dnk": 30,
+          "ft": 44,
+          "fg": 30,
           "tp": 25,
-          "diq": 25,
-          "oiq": 32,
-          "drb": 38,
-          "pss": 26,
-          "reb": 26
+          "diq": 26,
+          "oiq": 34,
+          "drb": 40,
+          "pss": 28,
+          "reb": 29
         }
       ],
       "injury": {
@@ -6879,8 +6879,8 @@
         "pick": 15
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 57,
+        "exp": 1970
       }
     },
     {
@@ -6901,18 +6901,18 @@
           "hgt": 41,
           "stre": 25,
           "spd": 63,
-          "jmp": 57,
+          "jmp": 56,
           "endu": 25,
           "ins": 25,
-          "dnk": 25,
-          "ft": 47,
-          "fg": 25,
+          "dnk": 26,
+          "ft": 51,
+          "fg": 32,
           "tp": 25,
           "diq": 25,
-          "oiq": 33,
-          "drb": 37,
-          "pss": 25,
-          "reb": 25
+          "oiq": 34,
+          "drb": 36,
+          "pss": 27,
+          "reb": 26
         }
       ],
       "injury": {
@@ -6926,8 +6926,8 @@
         "pick": 94
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 62,
+        "exp": 1970
       }
     },
     {
@@ -6947,19 +6947,19 @@
           "season": 1970,
           "hgt": 48,
           "stre": 37,
-          "spd": 59,
-          "jmp": 66,
-          "endu": 58,
-          "ins": 42,
-          "dnk": 61,
-          "ft": 60,
-          "fg": 50,
+          "spd": 60,
+          "jmp": 67,
+          "endu": 60,
+          "ins": 44,
+          "dnk": 64,
+          "ft": 57,
+          "fg": 53,
           "tp": 25,
           "diq": 39,
-          "oiq": 58,
-          "drb": 62,
-          "pss": 41,
-          "reb": 72
+          "oiq": 45,
+          "drb": 46,
+          "pss": 44,
+          "reb": 59
         }
       ],
       "injury": {
@@ -6973,8 +6973,8 @@
         "pick": 12
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 58,
+        "exp": 1970
       }
     },
     {
@@ -6994,19 +6994,19 @@
           "season": 1970,
           "hgt": 41,
           "stre": 40,
-          "spd": 65,
-          "jmp": 66,
-          "endu": 69,
-          "ins": 61,
-          "dnk": 72,
-          "ft": 79,
-          "fg": 67,
+          "spd": 67,
+          "jmp": 67,
+          "endu": 67,
+          "ins": 63,
+          "dnk": 74,
+          "ft": 77,
+          "fg": 62,
           "tp": 25,
-          "diq": 46,
-          "oiq": 74,
-          "drb": 74,
-          "pss": 74,
-          "reb": 26
+          "diq": 47,
+          "oiq": 61,
+          "drb": 57,
+          "pss": 58,
+          "reb": 44
         }
       ],
       "injury": {
@@ -7020,8 +7020,8 @@
         "pick": 13
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 62,
+        "exp": 1970
       }
     },
     {
@@ -7040,19 +7040,19 @@
         {
           "season": 1970,
           "hgt": 59,
-          "stre": 33,
+          "stre": 32,
           "spd": 51,
           "jmp": 69,
           "endu": 29,
           "ins": 51,
-          "dnk": 37,
+          "dnk": 36,
           "ft": 59,
-          "fg": 41,
+          "fg": 52,
           "tp": 25,
-          "diq": 30,
-          "oiq": 53,
-          "drb": 48,
-          "pss": 27,
+          "diq": 28,
+          "oiq": 37,
+          "drb": 37,
+          "pss": 39,
           "reb": 47
         }
       ],
@@ -7067,8 +7067,8 @@
         "pick": 2
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 64,
+        "exp": 1970
       }
     },
     {
@@ -7093,14 +7093,14 @@
           "endu": 25,
           "ins": 25,
           "dnk": 28,
-          "ft": 40,
-          "fg": 25,
+          "ft": 42,
+          "fg": 30,
           "tp": 25,
           "diq": 25,
-          "oiq": 29,
+          "oiq": 27,
           "drb": 37,
-          "pss": 25,
-          "reb": 25
+          "pss": 26,
+          "reb": 29
         }
       ],
       "injury": {
@@ -7114,8 +7114,8 @@
         "pick": 70
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 56,
+        "exp": 1970
       }
     },
     {
@@ -7161,8 +7161,8 @@
         "pick": 4
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 55,
+        "exp": 1970
       }
     },
     {
@@ -7181,20 +7181,20 @@
         {
           "season": 1970,
           "hgt": 56,
-          "stre": 38,
+          "stre": 39,
           "spd": 58,
           "jmp": 65,
-          "endu": 43,
-          "ins": 47,
-          "dnk": 63,
-          "ft": 68,
-          "fg": 61,
+          "endu": 45,
+          "ins": 49,
+          "dnk": 65,
+          "ft": 69,
+          "fg": 57,
           "tp": 25,
-          "diq": 43,
-          "oiq": 56,
-          "drb": 54,
-          "pss": 36,
-          "reb": 56
+          "diq": 44,
+          "oiq": 46,
+          "drb": 40,
+          "pss": 42,
+          "reb": 52
         }
       ],
       "injury": {
@@ -7208,8 +7208,8 @@
         "pick": 6
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 64,
+        "exp": 1970
       }
     },
     {
@@ -7229,19 +7229,19 @@
           "season": 1970,
           "hgt": 41,
           "stre": 32,
-          "spd": 58,
-          "jmp": 60,
-          "endu": 43,
-          "ins": 34,
-          "dnk": 47,
-          "ft": 64,
-          "fg": 57,
+          "spd": 59,
+          "jmp": 61,
+          "endu": 44,
+          "ins": 35,
+          "dnk": 49,
+          "ft": 65,
+          "fg": 54,
           "tp": 25,
           "diq": 33,
-          "oiq": 48,
-          "drb": 56,
-          "pss": 25,
-          "reb": 30
+          "oiq": 38,
+          "drb": 45,
+          "pss": 37,
+          "reb": 43
         }
       ],
       "injury": {
@@ -7255,8 +7255,8 @@
         "pick": 28
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 58,
+        "exp": 1970
       }
     },
     {
@@ -7278,17 +7278,17 @@
           "stre": 25,
           "spd": 60,
           "jmp": 52,
-          "endu": 31,
+          "endu": 33,
           "ins": 25,
-          "dnk": 25,
-          "ft": 60,
-          "fg": 39,
+          "dnk": 26,
+          "ft": 64,
+          "fg": 47,
           "tp": 25,
           "diq": 29,
-          "oiq": 49,
-          "drb": 66,
-          "pss": 62,
-          "reb": 25
+          "oiq": 41,
+          "drb": 53,
+          "pss": 55,
+          "reb": 37
         }
       ],
       "injury": {
@@ -7302,8 +7302,8 @@
         "pick": 163
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 58,
+        "exp": 1970
       }
     },
     {
@@ -7322,20 +7322,20 @@
         {
           "season": 1970,
           "hgt": 41,
-          "stre": 42,
-          "spd": 65,
-          "jmp": 60,
-          "endu": 43,
-          "ins": 66,
-          "dnk": 64,
-          "ft": 60,
-          "fg": 60,
+          "stre": 44,
+          "spd": 66,
+          "jmp": 61,
+          "endu": 44,
+          "ins": 69,
+          "dnk": 67,
+          "ft": 58,
+          "fg": 61,
           "tp": 25,
-          "diq": 51,
-          "oiq": 60,
-          "drb": 60,
-          "pss": 26,
-          "reb": 70
+          "diq": 52,
+          "oiq": 57,
+          "drb": 48,
+          "pss": 40,
+          "reb": 59
         }
       ],
       "injury": {
@@ -7349,8 +7349,8 @@
         "pick": 6
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 61,
+        "exp": 1970
       }
     },
     {
@@ -7371,18 +7371,18 @@
           "hgt": 59,
           "stre": 33,
           "spd": 48,
-          "jmp": 66,
-          "endu": 26,
+          "jmp": 67,
+          "endu": 29,
           "ins": 43,
           "dnk": 31,
-          "ft": 53,
-          "fg": 33,
+          "ft": 54,
+          "fg": 45,
           "tp": 25,
           "diq": 28,
-          "oiq": 43,
-          "drb": 40,
-          "pss": 25,
-          "reb": 42
+          "oiq": 35,
+          "drb": 34,
+          "pss": 32,
+          "reb": 43
         }
       ],
       "injury": {
@@ -7396,8 +7396,8 @@
         "pick": 37
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 56,
+        "exp": 1970
       }
     },
     {
@@ -7418,16 +7418,16 @@
           "stre": 38,
           "spd": 70,
           "jmp": 67,
-          "endu": 81,
+          "endu": 73,
           "ins": 71,
           "dnk": 76,
-          "ft": 84,
-          "fg": 77,
+          "ft": 81,
+          "fg": 68,
           "tp": 27,
           "diq": 55,
-          "oiq": 84,
-          "drb": 78,
-          "pss": 97,
+          "oiq": 75,
+          "drb": 65,
+          "pss": 76,
           "reb": 50
         }
       ],
@@ -7437,8 +7437,8 @@
       },
       "college": "Cincinnati",
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 66,
+        "exp": 1970
       }
     },
     {
@@ -7461,15 +7461,15 @@
           "spd": 66,
           "jmp": 63,
           "endu": 61,
-          "ins": 51,
-          "dnk": 74,
-          "ft": 76,
-          "fg": 70,
+          "ins": 52,
+          "dnk": 76,
+          "ft": 74,
+          "fg": 62,
           "tp": 25,
-          "diq": 40,
-          "oiq": 64,
-          "drb": 64,
-          "pss": 38,
+          "diq": 41,
+          "oiq": 50,
+          "drb": 50,
+          "pss": 44,
           "reb": 48
         }
       ],
@@ -7484,8 +7484,8 @@
         "pick": 14
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 54,
+        "exp": 1970
       }
     },
     {
@@ -7506,18 +7506,18 @@
           "hgt": 26,
           "stre": 25,
           "spd": 70,
-          "jmp": 55,
+          "jmp": 56,
           "endu": 62,
-          "ins": 31,
-          "dnk": 40,
-          "ft": 67,
-          "fg": 49,
+          "ins": 30,
+          "dnk": 39,
+          "ft": 69,
+          "fg": 51,
           "tp": 25,
-          "diq": 42,
-          "oiq": 56,
-          "drb": 70,
-          "pss": 90,
-          "reb": 42
+          "diq": 40,
+          "oiq": 45,
+          "drb": 58,
+          "pss": 67,
+          "reb": 48
         }
       ],
       "injury": {
@@ -7531,8 +7531,8 @@
         "pick": 34
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 61,
+        "exp": 1970
       }
     },
     {
@@ -7554,17 +7554,17 @@
           "stre": 25,
           "spd": 67,
           "jmp": 56,
-          "endu": 30,
-          "ins": 27,
-          "dnk": 32,
-          "ft": 60,
-          "fg": 38,
+          "endu": 32,
+          "ins": 26,
+          "dnk": 30,
+          "ft": 64,
+          "fg": 48,
           "tp": 25,
-          "diq": 33,
-          "oiq": 47,
-          "drb": 65,
-          "pss": 36,
-          "reb": 26
+          "diq": 32,
+          "oiq": 36,
+          "drb": 51,
+          "pss": 44,
+          "reb": 43
         }
       ],
       "injury": {
@@ -7578,8 +7578,8 @@
         "pick": 43
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 61,
+        "exp": 1970
       }
     },
     {
@@ -7599,19 +7599,19 @@
           "season": 1970,
           "hgt": 33,
           "stre": 25,
-          "spd": 63,
-          "jmp": 54,
-          "endu": 36,
-          "ins": 32,
-          "dnk": 40,
-          "ft": 67,
+          "spd": 62,
+          "jmp": 53,
+          "endu": 35,
+          "ins": 31,
+          "dnk": 39,
+          "ft": 64,
           "fg": 50,
           "tp": 25,
           "diq": 29,
-          "oiq": 53,
-          "drb": 63,
-          "pss": 33,
-          "reb": 25
+          "oiq": 41,
+          "drb": 50,
+          "pss": 37,
+          "reb": 35
         }
       ],
       "injury": {
@@ -7625,8 +7625,8 @@
         "pick": 14
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 57,
+        "exp": 1970
       }
     },
     {
@@ -7648,17 +7648,17 @@
           "stre": 39,
           "spd": 51,
           "jmp": 69,
-          "endu": 29,
-          "ins": 45,
+          "endu": 28,
+          "ins": 46,
           "dnk": 26,
-          "ft": 62,
-          "fg": 40,
+          "ft": 67,
+          "fg": 50,
           "tp": 25,
-          "diq": 37,
-          "oiq": 54,
-          "drb": 43,
-          "pss": 25,
-          "reb": 47
+          "diq": 36,
+          "oiq": 43,
+          "drb": 37,
+          "pss": 36,
+          "reb": 48
         }
       ],
       "injury": {
@@ -7672,8 +7672,8 @@
         "pick": 8
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 55,
+        "exp": 1970
       }
     },
     {
@@ -7719,8 +7719,8 @@
         "pick": 215
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 52,
+        "exp": 1970
       }
     },
     {
@@ -7742,17 +7742,17 @@
           "stre": 59,
           "spd": 48,
           "jmp": 61,
-          "endu": 64,
+          "endu": 63,
           "ins": 44,
-          "dnk": 59,
+          "dnk": 58,
           "ft": 70,
-          "fg": 68,
+          "fg": 63,
           "tp": 27,
-          "diq": 64,
-          "oiq": 68,
-          "drb": 69,
-          "pss": 56,
-          "reb": 77
+          "diq": 67,
+          "oiq": 55,
+          "drb": 53,
+          "pss": 50,
+          "reb": 65
         }
       ],
       "injury": {
@@ -7766,8 +7766,8 @@
         "pick": 11
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 58,
+        "exp": 1970
       }
     },
     {
@@ -7789,17 +7789,17 @@
           "stre": 31,
           "spd": 66,
           "jmp": 57,
-          "endu": 61,
-          "ins": 44,
-          "dnk": 59,
-          "ft": 79,
-          "fg": 71,
+          "endu": 58,
+          "ins": 42,
+          "dnk": 57,
+          "ft": 76,
+          "fg": 62,
           "tp": 25,
           "diq": 42,
-          "oiq": 68,
-          "drb": 73,
-          "pss": 82,
-          "reb": 25
+          "oiq": 56,
+          "drb": 61,
+          "pss": 66,
+          "reb": 39
         }
       ],
       "injury": {
@@ -7813,8 +7813,8 @@
         "pick": 92
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 64,
+        "exp": 1970
       }
     },
     {
@@ -7836,16 +7836,16 @@
           "stre": 28,
           "spd": 70,
           "jmp": 70,
-          "endu": 60,
-          "ins": 51,
+          "endu": 62,
+          "ins": 53,
           "dnk": 70,
           "ft": 70,
-          "fg": 69,
+          "fg": 63,
           "tp": 25,
-          "diq": 46,
-          "oiq": 60,
-          "drb": 64,
-          "pss": 43,
+          "diq": 48,
+          "oiq": 48,
+          "drb": 48,
+          "pss": 46,
           "reb": 50
         }
       ],
@@ -7860,8 +7860,8 @@
         "pick": 5
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 57,
+        "exp": 1970
       }
     },
     {
@@ -7880,20 +7880,20 @@
         {
           "season": 1970,
           "hgt": 33,
-          "stre": 26,
-          "spd": 77,
-          "jmp": 64,
+          "stre": 25,
+          "spd": 78,
+          "jmp": 65,
           "endu": 65,
-          "ins": 52,
-          "dnk": 69,
-          "ft": 82,
-          "fg": 72,
+          "ins": 53,
+          "dnk": 72,
+          "ft": 80,
+          "fg": 63,
           "tp": 25,
-          "diq": 48,
-          "oiq": 70,
-          "drb": 74,
-          "pss": 79,
-          "reb": 25
+          "diq": 49,
+          "oiq": 55,
+          "drb": 57,
+          "pss": 61,
+          "reb": 45
         }
       ],
       "injury": {
@@ -7907,8 +7907,8 @@
         "pick": 2
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 58,
+        "exp": 1970
       }
     },
     {
@@ -7929,18 +7929,18 @@
           "hgt": 56,
           "stre": 35,
           "spd": 62,
-          "jmp": 68,
-          "endu": 33,
-          "ins": 42,
-          "dnk": 45,
+          "jmp": 67,
+          "endu": 31,
+          "ins": 41,
+          "dnk": 43,
           "ft": 70,
-          "fg": 47,
+          "fg": 53,
           "tp": 25,
-          "diq": 42,
-          "oiq": 60,
-          "drb": 54,
-          "pss": 31,
-          "reb": 55
+          "diq": 41,
+          "oiq": 48,
+          "drb": 40,
+          "pss": 44,
+          "reb": 52
         }
       ],
       "injury": {
@@ -7954,8 +7954,8 @@
         "pick": 4
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 58,
+        "exp": 1970
       }
     },
     {
@@ -7974,20 +7974,20 @@
         {
           "season": 1970,
           "hgt": 48,
-          "stre": 62,
-          "spd": 44,
-          "jmp": 69,
-          "endu": 70,
-          "ins": 68,
+          "stre": 61,
+          "spd": 45,
+          "jmp": 70,
+          "endu": 69,
+          "ins": 70,
           "dnk": 70,
-          "ft": 63,
-          "fg": 63,
-          "tp": 26,
+          "ft": 62,
+          "fg": 60,
+          "tp": 25,
           "diq": 55,
-          "oiq": 60,
-          "drb": 60,
-          "pss": 62,
-          "reb": 82
+          "oiq": 53,
+          "drb": 43,
+          "pss": 53,
+          "reb": 68
         }
       ],
       "injury": {
@@ -8001,8 +8001,8 @@
         "pick": 2
       },
       "contract": {
-        "amount": 1000,
-        "exp": 1971
+        "amount": 60,
+        "exp": 1970
       }
     }
   ],
